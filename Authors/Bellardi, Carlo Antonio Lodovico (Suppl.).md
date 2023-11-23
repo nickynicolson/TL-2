@@ -5,7 +5,7 @@ std_form: Bellardi
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265260) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bellardi, Carlo Antonio Lodovico {std. Bellardi}|first entry]] for this author
+> [!example] See also [[Bellardi, Carlo Antonio Lodovico|first entry]] for this author
 
 ### Author
 

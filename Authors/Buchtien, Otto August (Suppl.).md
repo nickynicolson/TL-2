@@ -5,7 +5,7 @@ std_form: Buchtien
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33266505) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buchtien, Otto {std. Buchtien}|first entry]] for this author
+> [!example] See also [[Buchtien, Otto|first entry]] for this author
 
 ### Author
 

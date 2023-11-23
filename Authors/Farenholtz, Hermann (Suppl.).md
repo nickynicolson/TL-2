@@ -5,7 +5,7 @@ std_form: Farenholtz
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33259540) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Farenholtz, Hermann {std. Farenholtz}|first entry]] for this author
+> [!example] See also [[Farenholtz, Hermann|first entry]] for this author
 
 ### Author
 

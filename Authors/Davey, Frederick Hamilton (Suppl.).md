@@ -5,7 +5,7 @@ std_form: Davey
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33259140) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Davey, Frederick Hamilton {std. Davey}|first entry]] for this author
+> [!example] See also [[Davey, Frederick Hamilton|first entry]] for this author
 
 ### Author
 

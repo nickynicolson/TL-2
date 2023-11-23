@@ -5,7 +5,7 @@ std_form: Frémy
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33259905) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Frémy, Pierre (Abbé) {std. Frémy}|first entry]] for this author
+> [!example] See also [[Frémy, Pierre (Abbé)|first entry]] for this author
 
 ### Author
 

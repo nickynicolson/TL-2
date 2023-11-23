@@ -5,7 +5,7 @@ std_form: P.J.L.Dang.
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33259095) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dangeard, Pierre Jean Louis {std. P.J.L. Dang.}|first entry]] for this author
+> [!example] See also [[Dangeard, Pierre Jean Louis|first entry]] for this author
 
 ### Author
 

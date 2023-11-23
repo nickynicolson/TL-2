@@ -5,7 +5,7 @@ std_form: Aucher
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33264934) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Aucher-Éloy, Pierre Martin Rémi {std. Aucher}|first entry]] for this author
+> [!example] See also [[Aucher-Éloy, Pierre Martin Rémi|first entry]] for this author
 
 ### Author
 

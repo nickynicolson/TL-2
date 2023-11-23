@@ -5,7 +5,7 @@ std_form: Costa
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266073) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Costa y Cuxart, Antonio Cipriano {std. Costa}|first entry]] for this author
+> [!example] See also [[Costa y Cuxart, Antonio Cipriano|first entry]] for this author
 
 ### Author
 

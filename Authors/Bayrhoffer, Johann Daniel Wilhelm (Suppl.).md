@@ -5,7 +5,7 @@ std_form: Bayrh.
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bayrhoffer, Johann Daniel Wilhelm {std. Bayrh.}|first entry]] for this author
+> [!example] See also [[Bayrhoffer, Johann Daniel Wilhelm|first entry]] for this author
 
 ### Author
 

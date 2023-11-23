@@ -5,7 +5,7 @@ std_form: Diels
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33259343) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Diels, Friedrich Ludwig Emil {std. Diels}|first entry]] for this author
+> [!example] See also [[Diels, Friedrich Ludwig Emil|first entry]] for this author
 
 ### Author
 

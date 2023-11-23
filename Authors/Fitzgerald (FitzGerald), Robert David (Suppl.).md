@@ -5,7 +5,7 @@ std_form: Fitzg.
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33259733) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fitzgerald, Robert Desmond {std. Fitzg.}|first entry]] for this author
+> [!example] See also [[Fitzgerald, Robert Desmond|first entry]] for this author
 
 ### Author
 

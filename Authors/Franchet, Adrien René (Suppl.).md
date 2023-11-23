@@ -5,7 +5,7 @@ std_form: Franch.
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33259876) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Franchet, Adrien René {std. Franch.}|first entry]] for this author
+> [!example] See also [[Franchet, Adrien René|first entry]] for this author
 
 ### Author
 

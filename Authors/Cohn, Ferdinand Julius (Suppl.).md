@@ -5,7 +5,7 @@ std_form: Cohn
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33265931) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cohn, Ferdinand Julius {std. Cohn}|first entry]] for this author
+> [!example] See also [[Cohn, Ferdinand Julius|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Gaterau
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33258612) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gaterau {std. Gaterau}|first entry]] for this author
+> [!example] See also [[Gaterau|first entry]] for this author
 
 ### Author
 

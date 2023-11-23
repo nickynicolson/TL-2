@@ -5,7 +5,7 @@ std_form: C.E.Bertrand
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33265326) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bertrand, Charles Eugène {std. C.E. Bertrand}|first entry]] for this author
+> [!example] See also [[Bertrand, Charles Eugène|first entry]] for this author
 
 ### Author
 

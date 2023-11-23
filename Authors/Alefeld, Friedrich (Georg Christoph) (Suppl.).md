@@ -5,7 +5,7 @@ std_form: Alef.
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33264792) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Alefeld, Friedrich Georg Christoph {std. Alef.}|first entry]] for this author
+> [!example] See also [[Alefeld, Friedrich Georg Christoph|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Gasp.
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33258610) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gasparrini, Gulielmo {std. Gasp.}|first entry]] for this author
+> [!example] See also [[Gasparrini, Gulielmo|first entry]] for this author
 
 ### Author
 

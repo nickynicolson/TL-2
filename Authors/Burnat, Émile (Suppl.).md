@@ -5,7 +5,7 @@ std_form: Burnat
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33266561) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Burnat, Emile {std. Burnat}|first entry]] for this author
+> [!example] See also [[Burnat, Emile|first entry]] for this author
 
 ### Author
 

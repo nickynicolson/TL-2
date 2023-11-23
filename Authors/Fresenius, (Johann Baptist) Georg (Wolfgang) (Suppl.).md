@@ -5,7 +5,7 @@ std_form: Fresen.
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33258525) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fresenius, Johann Baptist Georg Wolfgang {std. Fresen.}|first entry]] for this author
+> [!example] See also [[Fresenius, Johann Baptist Georg Wolfgang|first entry]] for this author
 
 ### Author
 

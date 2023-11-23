@@ -5,7 +5,7 @@ std_form: H.Crouan
 > [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33266156) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Crouan, Hippolyte Marie {std. H. Crouan}|first entry]] for this author
+> [!example] See also [[Crouan, Hippolyte Marie|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Eig
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33260273) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Eig, Alexander {std. Eig}|first entry]] for this author
+> [!example] See also [[Eig, Alexander|first entry]] for this author
 
 ### Author
 

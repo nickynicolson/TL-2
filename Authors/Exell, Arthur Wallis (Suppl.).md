@@ -5,7 +5,7 @@ std_form: Exell
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33260432) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Exell, Arthur Wallis {std. Exell}|first entry]] for this author
+> [!example] See also [[Exell, Arthur Wallis|first entry]] for this author
 
 ### Author
 

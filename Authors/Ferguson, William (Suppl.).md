@@ -5,7 +5,7 @@ std_form: Ferguson
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259645) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ferguson, William {std. Ferguson}|first entry]] for this author
+> [!example] See also [[Ferguson, William|first entry]] for this author
 
 ### Author
 

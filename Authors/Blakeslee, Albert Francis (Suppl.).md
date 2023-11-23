@@ -5,7 +5,7 @@ std_form: Blakeslee
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33265393) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Blakeslee, Albert Francis {std. Blakeslee}|first entry]] for this author
+> [!example] See also [[Blakeslee, Albert Francis|first entry]] for this author
 
 ### Author
 

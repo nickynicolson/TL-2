@@ -5,7 +5,7 @@ std_form: Boulger
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33265582) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boulger, George Edward Simmonds {std. Boulger}|first entry]] for this author
+> [!example] See also [[Boulger, George Edward Simmonds|first entry]] for this author
 
 ### Author
 

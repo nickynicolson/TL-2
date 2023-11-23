@@ -5,7 +5,7 @@ std_form: Berk.
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33265295) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Berkeley, Rev. Miles Joseph {std. Berk.}|first entry]] for this author
+> [!example] See also [[Berkeley, Rev. Miles Joseph|first entry]] for this author
 
 ### Author
 

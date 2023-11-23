@@ -5,7 +5,7 @@ std_form: Bernh.
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33265307) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bernhardi, Johann Jakob {std. Bernh.}|first entry]] for this author
+> [!example] See also [[Bernhardi, Johann Jakob|first entry]] for this author
 
 ### Author
 

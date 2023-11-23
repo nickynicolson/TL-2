@@ -5,7 +5,7 @@ std_form: Berthel.
 > [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33265317) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Berthelot, Sabin {std. Berthel.}|first entry]] for this author
+> [!example] See also [[Berthelot, Sabin|first entry]] for this author
 
 ### Author
 

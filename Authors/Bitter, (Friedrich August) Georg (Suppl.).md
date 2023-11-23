@@ -5,7 +5,7 @@ std_form: Bitter
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265376) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bitter, Friedrich August Georg {std. Bitter}|first entry]] for this author
+> [!example] See also [[Bitter, Friedrich August Georg|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Borbás
 > [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33265525) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Borbás, Vincent (Vince) von {std. Borbás}|first entry]] for this author
+> [!example] See also [[Borbás, Vincent (Vince) von|first entry]] for this author
 
 ### Author
 

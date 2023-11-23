@@ -5,7 +5,7 @@ std_form: C.B.Clarke
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33265860) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Clarke, Charles Baron {std. C.B. Clarke}|first entry]] for this author
+> [!example] See also [[Clarke, Charles Baron|first entry]] for this author
 
 ### Author
 

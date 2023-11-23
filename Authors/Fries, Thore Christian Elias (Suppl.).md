@@ -5,7 +5,7 @@ std_form: T.C.E.Fr.
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33258475) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fries, Thore Christian Elias {std. T.C.E. Fr.}|first entry]] for this author
+> [!example] See also [[Fries, Thore Christian Elias|first entry]] for this author
 
 ### Author
 

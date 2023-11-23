@@ -5,7 +5,7 @@ std_form: Gonz.Frag.
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33258774) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fragoso, Romualdo González {std. Gonz. Frag.}|first entry]] for this author
+> [!example] See also [[Fragoso, Romualdo González|first entry]] for this author
 
 ### Author
 

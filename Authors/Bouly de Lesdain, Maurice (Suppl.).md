@@ -5,7 +5,7 @@ std_form: B.de Lesd.
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265584) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bouly de Lesdain, Maurice {std. B. de Lesd.}|first entry]] for this author
+> [!example] See also [[Bouly de Lesdain, Maurice|first entry]] for this author
 
 ### Author
 

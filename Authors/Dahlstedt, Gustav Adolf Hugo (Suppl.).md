@@ -5,7 +5,7 @@ std_form: Dahlst.
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33259062) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dahlstedt, Gustav Adolf Hugo {std. Dahlst.}|first entry]] for this author
+> [!example] See also [[Dahlstedt, Gustav Adolf Hugo|first entry]] for this author
 
 ### Author
 

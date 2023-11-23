@@ -5,7 +5,7 @@ std_form: Binz
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33265365) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Binz, August {std. Binz}|first entry]] for this author
+> [!example] See also [[Binz, August|first entry]] for this author
 
 ### Author
 

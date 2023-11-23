@@ -5,7 +5,7 @@ std_form: Carrington
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33266730) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Carrington, Benjamin {std. Carrington}|first entry]] for this author
+> [!example] See also [[Carrington, Benjamin|first entry]] for this author
 
 ### Author
 

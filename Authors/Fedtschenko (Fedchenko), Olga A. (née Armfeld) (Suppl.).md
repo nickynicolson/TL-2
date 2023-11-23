@@ -5,7 +5,7 @@ std_form: O.Fedtsch.
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33259602) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fedchenko, Olga Aleksandrovna (née Armfeld) {std. O. Fedtsch.}|first entry]] for this author
+> [!example] See also [[Fedchenko, Olga Aleksandrovna (née Armfeld)|first entry]] for this author
 
 ### Author
 

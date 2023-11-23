@@ -5,7 +5,7 @@ std_form: Bulnh.
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33266526) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bulnheim, Carl Otto {std. Bulnh.}|first entry]] for this author
+> [!example] See also [[Bulnheim, Carl Otto|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Grecescu
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33258829) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Grecescu, Dimitrie {std. Grecescu}|first entry]] for this author
+> [!example] See also [[Grecescu, Dimitrie|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: dUrv.
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33260150) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dumont dUrville, Jules Sébastien César {std. dUrv.}|first entry]] for this author
+> [!example] See also [[Dumont dUrville, Jules Sébastien César|first entry]] for this author
 
 ### Author
 

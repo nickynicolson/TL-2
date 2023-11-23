@@ -5,7 +5,7 @@ std_form: Aitch.
 > [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33264744) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Aitchison, James Edward Tierney {std. Aitch.}|first entry]] for this author
+> [!example] See also [[Aitchison, James Edward Tierney|first entry]] for this author
 
 ### Author
 

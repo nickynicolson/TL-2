@@ -5,7 +5,7 @@ std_form: Braun-Blanq.
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33266343) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Braun-Blanquet, Josias {std. Braun-Blanq.}|first entry]] for this author
+> [!example] See also [[Braun-Blanquet, Josias|first entry]] for this author
 
 ### Author
 

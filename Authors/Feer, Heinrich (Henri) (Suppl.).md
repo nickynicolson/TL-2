@@ -5,7 +5,7 @@ std_form: Feer
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33259611) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Feer, Heinrich (Henri) {std. Feer}|first entry]] for this author
+> [!example] See also [[Feer, Heinrich (Henri)|first entry]] for this author
 
 ### Author
 

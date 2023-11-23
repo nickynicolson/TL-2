@@ -5,7 +5,7 @@ std_form: Dunn
 > [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33260159) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dunn, Stephen Troyte {std. Dunn}|first entry]] for this author
+> [!example] See also [[Dunn, Stephen Troyte|first entry]] for this author
 
 ### Author
 

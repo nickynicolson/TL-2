@@ -5,7 +5,7 @@ std_form: P.Altmann
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33264819) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Altmann, Paul {std. P. Altmann}|first entry]] for this author
+> [!example] See also [[Altmann, Paul|first entry]] for this author
 
 ### Author
 

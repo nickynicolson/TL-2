@@ -5,7 +5,7 @@ std_form: Gilg
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33258685) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gilg, Ernst Friedrich {std. Gilg}|first entry]] for this author
+> [!example] See also [[Gilg, Ernst Friedrich|first entry]] for this author
 
 ### Author
 

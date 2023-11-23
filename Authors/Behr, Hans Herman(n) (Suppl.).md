@@ -5,7 +5,7 @@ std_form: Behr
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33265247) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Behr, Hans Herman(n) {std. Behr}|first entry]] for this author
+> [!example] See also [[Behr, Hans Herman(n)|first entry]] for this author
 
 ### Author
 

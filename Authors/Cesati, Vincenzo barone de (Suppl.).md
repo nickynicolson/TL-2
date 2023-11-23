@@ -5,7 +5,7 @@ std_form: Ces.
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33265703) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cesati, Vincenzo barone de {std. Ces.}|first entry]] for this author
+> [!example] See also [[Cesati, Vincenzo barone de|first entry]] for this author
 
 ### Author
 

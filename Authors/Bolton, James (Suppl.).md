@@ -5,7 +5,7 @@ std_form: Bolton
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bolton, James {std. Bolton}|first entry]] for this author
+> [!example] See also [[Bolton, James|first entry]] for this author
 
 ### Author
 

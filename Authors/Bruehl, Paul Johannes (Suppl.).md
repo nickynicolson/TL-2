@@ -5,7 +5,7 @@ std_form: Brühl
 > [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33266460) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brühl, Paul Johannes {std. Brühl}|first entry]] for this author
+> [!example] See also [[Brühl, Paul Johannes|first entry]] for this author
 
 ### Author
 

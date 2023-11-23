@@ -5,7 +5,7 @@ std_form: Chiov.
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33265781) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chiovenda, Emilio {std. Chiov.}|first entry]] for this author
+> [!example] See also [[Chiovenda, Emilio|first entry]] for this author
 
 ### Author
 

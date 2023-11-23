@@ -5,7 +5,7 @@ std_form: G.P.Clinton
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265896) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Clinton, George Perkins {std. G.P. Clinton}|first entry]] for this author
+> [!example] See also [[Clinton, George Perkins|first entry]] for this author
 
 ### Author
 

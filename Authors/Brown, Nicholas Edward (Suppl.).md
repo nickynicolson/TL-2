@@ -5,7 +5,7 @@ std_form: N.E.Br.
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brown, Nicholas Edward {std. N.E. Br.}|first entry]] for this author
+> [!example] See also [[Brown, Nicholas Edward|first entry]] for this author
 
 ### Author
 

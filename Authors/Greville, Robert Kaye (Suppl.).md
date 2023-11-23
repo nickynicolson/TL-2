@@ -5,7 +5,7 @@ std_form: Grev.
 > [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33258855) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Greville, Robert Kaye {std. Grev.}|first entry]] for this author
+> [!example] See also [[Greville, Robert Kaye|first entry]] for this author
 
 ### Author
 

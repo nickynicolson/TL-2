@@ -5,7 +5,7 @@ std_form: D.Griffiths
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33258867) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Griffiths, David {std. D. Griffiths}|first entry]] for this author
+> [!example] See also [[Griffiths, David|first entry]] for this author
 
 ### Author
 

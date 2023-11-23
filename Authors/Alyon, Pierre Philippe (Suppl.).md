@@ -5,7 +5,7 @@ std_form: Alyon
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33264820) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Alyon, Pierre Philippe {std. Alyon}|first entry]] for this author
+> [!example] See also [[Alyon, Pierre Philippe|first entry]] for this author
 
 ### Author
 

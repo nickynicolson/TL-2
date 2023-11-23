@@ -5,7 +5,7 @@ std_form: De Wild.
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33259304) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[De Wildeman, Émile Auguste Joseph {std. De Wild.}|first entry]] for this author
+> [!example] See also [[De Wildeman, Émile Auguste Joseph|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: J.E.Gray
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33258828) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gray, John Edward {std. J.E. Gray}|first entry]] for this author
+> [!example] See also [[Gray, John Edward|first entry]] for this author
 
 ### Author
 

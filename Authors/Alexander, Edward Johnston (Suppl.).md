@@ -5,7 +5,7 @@ std_form: Alexander
 > [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33264793) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Alexander, Edward Johnston {std. Alexander}|first entry]] for this author
+> [!example] See also [[Alexander, Edward Johnston|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Dammer
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33259083) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dammer, Carl Lebrecht Udo {std. Dammer}|first entry]] for this author
+> [!example] See also [[Dammer, Carl Lebrecht Udo|first entry]] for this author
 
 ### Author
 

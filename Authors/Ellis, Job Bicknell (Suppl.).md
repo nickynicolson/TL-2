@@ -5,7 +5,7 @@ std_form: Ellis
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33260297) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ellis, Job Bicknell {std. Ellis}|first entry]] for this author
+> [!example] See also [[Ellis, Job Bicknell|first entry]] for this author
 
 ### Author
 

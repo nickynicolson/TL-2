@@ -5,7 +5,7 @@ std_form: Curr.
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Currey, Frederick {std. Curr.}|first entry]] for this author
+> [!example] See also [[Currey, Frederick|first entry]] for this author
 
 ### Author
 

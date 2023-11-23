@@ -5,7 +5,7 @@ std_form: Chatin
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265741) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chatin, Gaspard Adolphe {std. Chatin}|first entry]] for this author
+> [!example] See also [[Chatin, Gaspard Adolphe|first entry]] for this author
 
 ### Author
 

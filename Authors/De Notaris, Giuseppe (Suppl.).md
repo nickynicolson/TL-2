@@ -5,7 +5,7 @@ std_form: De Not.
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33259253) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[De Notaris, Giuseppe {std. De Not.}|first entry]] for this author
+> [!example] See also [[De Notaris, Giuseppe|first entry]] for this author
 
 ### Author
 

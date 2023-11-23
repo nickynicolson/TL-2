@@ -5,7 +5,7 @@ std_form: Arsène
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33264899) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arsène, Frère Gustave (also Gerfroy) (Brouard, A.G. Joseph) {std. Arsène}|first entry]] for this author
+> [!example] See also [[Arsène, Frère Gustave (also Gerfroy) (Brouard, A.G. Joseph)|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Forti
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33259835) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Forti, Achille Italo {std. Forti}|first entry]] for this author
+> [!example] See also [[Forti, Achille Italo|first entry]] for this author
 
 ### Author
 

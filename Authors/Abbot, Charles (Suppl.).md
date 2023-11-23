@@ -5,7 +5,7 @@ std_form: C.Abbot
 > [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33264771) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Abbot, Charles {std. C. Abbot}|first entry]] for this author
+> [!example] See also [[Abbot, Charles|first entry]] for this author
 
 ### Author
 

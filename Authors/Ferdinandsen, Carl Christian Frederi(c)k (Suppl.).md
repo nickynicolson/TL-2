@@ -5,7 +5,7 @@ std_form: Ferd.
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33259641) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ferdinandsen, Carl Christian Frederic(k) {std. Ferd.}|first entry]] for this author
+> [!example] See also [[Ferdinandsen, Carl Christian Frederic(k)|first entry]] for this author
 
 ### Author
 

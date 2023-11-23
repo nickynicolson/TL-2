@@ -5,7 +5,7 @@ std_form: Diesing
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33259366) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Diesing, Carl Moritz {std. Diesing}|first entry]] for this author
+> [!example] See also [[Diesing, Carl Moritz|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Baumg.
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33265115) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baumgarten, Johann Christian Gottlob {std. Baumg.}|first entry]] for this author
+> [!example] See also [[Baumgarten, Johann Christian Gottlob|first entry]] for this author
 
 ### Author
 

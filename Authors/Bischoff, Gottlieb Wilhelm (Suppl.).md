@@ -5,7 +5,7 @@ std_form: Bisch.
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33265372) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bischoff, Gottlieb Wilhelm {std. Bisch.}|first entry]] for this author
+> [!example] See also [[Bischoff, Gottlieb Wilhelm|first entry]] for this author
 
 ### Author
 

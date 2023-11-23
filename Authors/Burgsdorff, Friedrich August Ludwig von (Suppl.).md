@@ -5,7 +5,7 @@ std_form: Burgsd.
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33266548) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Burgsdorff, Friedrich August Ludwig von {std. Burgsd.}|first entry]] for this author
+> [!example] See also [[Burgsdorff, Friedrich August Ludwig von|first entry]] for this author
 
 ### Author
 

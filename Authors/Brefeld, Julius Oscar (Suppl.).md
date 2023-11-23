@@ -5,7 +5,7 @@ std_form: Bref.
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33266354) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brefeld, Julius Oscar {std. Bref.}|first entry]] for this author
+> [!example] See also [[Brefeld, Julius Oscar|first entry]] for this author
 
 ### Author
 

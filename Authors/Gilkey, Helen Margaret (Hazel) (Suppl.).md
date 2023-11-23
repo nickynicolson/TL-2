@@ -5,7 +5,7 @@ std_form: Gilkey
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33258693) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gilkey, Helen Margaret {std. Gilkey}|first entry]] for this author
+> [!example] See also [[Gilkey, Helen Margaret|first entry]] for this author
 
 ### Author
 

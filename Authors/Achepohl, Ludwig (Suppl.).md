@@ -5,7 +5,7 @@ std_form: Achepohl
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Achepohl, Ludwig {std. Achepohl}|first entry]] for this author
+> [!example] See also [[Achepohl, Ludwig|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Giesenh.
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33258681) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Giesenhagen, Karl Friedrich Georg {std. Giesenh.}|first entry]] for this author
+> [!example] See also [[Giesenhagen, Karl Friedrich Georg|first entry]] for this author
 
 ### Author
 

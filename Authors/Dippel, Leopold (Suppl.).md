@@ -5,7 +5,7 @@ std_form: Dippel
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33259395) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dippel, Leopold {std. Dippel}|first entry]] for this author
+> [!example] See also [[Dippel, Leopold|first entry]] for this author
 
 ### Author
 

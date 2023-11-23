@@ -5,7 +5,7 @@ std_form: Delponte
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33259238) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Delponte, Giovanni Battista {std. Delponte}|first entry]] for this author
+> [!example] See also [[Delponte, Giovanni Battista|first entry]] for this author
 
 ### Author
 

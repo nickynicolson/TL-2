@@ -5,7 +5,7 @@ std_form: Felix
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33259627) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Felix, Johannes Paul {std. Felix}|first entry]] for this author
+> [!example] See also [[Felix, Johannes Paul|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Fayod
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33259581) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fayod, Victor {std. Fayod}|first entry]] for this author
+> [!example] See also [[Fayod, Victor|first entry]] for this author
 
 ### Author
 

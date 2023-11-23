@@ -5,7 +5,7 @@ std_form: Clinton
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265898) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Clinton, George William {std. Clinton}|first entry]] for this author
+> [!example] See also [[Clinton, George William|first entry]] for this author
 
 ### Author
 

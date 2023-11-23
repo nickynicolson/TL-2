@@ -5,7 +5,7 @@ std_form: Boedijn
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33265443) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boedijn, Karel Bernard {std. Boedijn}|first entry]] for this author
+> [!example] See also [[Boedijn, Karel Bernard|first entry]] for this author
 
 ### Author
 

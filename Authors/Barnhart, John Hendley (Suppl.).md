@@ -5,7 +5,7 @@ std_form: Barnhart
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33265060) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Barnhart, John Hendley {std. Barnhart}|first entry]] for this author
+> [!example] See also [[Barnhart, John Hendley|first entry]] for this author
 
 ### Author
 

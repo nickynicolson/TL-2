@@ -5,7 +5,7 @@ std_form: Dennst.
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33259252) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dennstedt, August Wilhelm {std. Dennst.}|first entry]] for this author
+> [!example] See also [[Dennstedt, August Wilhelm|first entry]] for this author
 
 ### Author
 

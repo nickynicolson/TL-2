@@ -5,7 +5,7 @@ std_form: Farl.
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33259540) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Farlow, William Gilson {std. Farl.}|first entry]] for this author
+> [!example] See also [[Farlow, William Gilson|first entry]] for this author
 
 ### Author
 

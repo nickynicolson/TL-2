@@ -5,7 +5,7 @@ std_form: Ask.
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33264923) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Askenasy, Eugen {std. Ask.}|first entry]] for this author
+> [!example] See also [[Askenasy, Eugen|first entry]] for this author
 
 ### Author
 

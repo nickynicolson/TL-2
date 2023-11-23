@@ -5,7 +5,7 @@ std_form: Dawson
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33259159) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dawson, (Sir) John William {std. Dawson}|first entry]] for this author
+> [!example] See also [[Dawson, (Sir) John William|first entry]] for this author
 
 ### Author
 

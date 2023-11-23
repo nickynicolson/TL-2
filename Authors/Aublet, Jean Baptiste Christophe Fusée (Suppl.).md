@@ -5,7 +5,7 @@ std_form: Aubl.
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33264931) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Aublet, Jean Baptiste Christophe Fusée {std. Aubl.}|first entry]] for this author
+> [!example] See also [[Aublet, Jean Baptiste Christophe Fusée|first entry]] for this author
 
 ### Author
 

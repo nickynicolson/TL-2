@@ -5,7 +5,7 @@ std_form: Carpentier
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33266727) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Carpentier, Alfred, abbé {std. Carpentier}|first entry]] for this author
+> [!example] See also [[Carpentier, Alfred, abbé|first entry]] for this author
 
 ### Author
 

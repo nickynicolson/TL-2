@@ -5,7 +5,7 @@ std_form: Fink
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33259692) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fink, Bruce {std. Fink}|first entry]] for this author
+> [!example] See also [[Fink, Bruce|first entry]] for this author
 
 ### Author
 

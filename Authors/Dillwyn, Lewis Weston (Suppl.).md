@@ -5,7 +5,7 @@ std_form: Dillwyn
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33259386) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dillwyn, Lewis Weston {std. Dillwyn}|first entry]] for this author
+> [!example] See also [[Dillwyn, Lewis Weston|first entry]] for this author
 
 ### Author
 

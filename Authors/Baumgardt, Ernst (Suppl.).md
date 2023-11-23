@@ -5,7 +5,7 @@ std_form: Baumgardt
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33265115) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baumgardt, Ernst {std. Baumgardt}|first entry]] for this author
+> [!example] See also [[Baumgardt, Ernst|first entry]] for this author
 
 ### Author
 

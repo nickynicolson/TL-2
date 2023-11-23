@@ -5,7 +5,7 @@ std_form: Bosch
 > [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265565) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bosch, Roelof Benjamin van den {std. Bosch}|first entry]] for this author
+> [!example] See also [[Bosch, Roelof Benjamin van den|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Beauverd
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33265200) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Beauverd, Gustave {std. Beauverd}|first entry]] for this author
+> [!example] See also [[Beauverd, Gustave|first entry]] for this author
 
 ### Author
 

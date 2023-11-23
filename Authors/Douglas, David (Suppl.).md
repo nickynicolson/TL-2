@@ -5,7 +5,7 @@ std_form: Douglas
 > [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33260054) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Douglas, David {std. Douglas}|first entry]] for this author
+> [!example] See also [[Douglas, David|first entry]] for this author
 
 ### Author
 

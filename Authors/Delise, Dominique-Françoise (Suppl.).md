@@ -5,7 +5,7 @@ std_form: Delise
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33259227) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Delise, Dominic François {std. Delise}|first entry]] for this author
+> [!example] See also [[Delise, Dominic François|first entry]] for this author
 
 ### Author
 

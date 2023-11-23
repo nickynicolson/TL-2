@@ -5,7 +5,7 @@ std_form: A.A.Fisch.Waldh.
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33259723) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fischer von Waldheim, Alexander Alexandrovitch {std. A.A. Fisch. Waldh.}|first entry]] for this author
+> [!example] See also [[Fischer von Waldheim, Alexander Alexandrovitch|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Flagey
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259743) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Flagey, Camille {std. Flagey}|first entry]] for this author
+> [!example] See also [[Flagey, Camille|first entry]] for this author
 
 ### Author
 

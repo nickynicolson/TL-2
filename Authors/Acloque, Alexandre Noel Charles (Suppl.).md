@@ -5,7 +5,7 @@ std_form: Acloque
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33264758) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Acloque, Alexandre Noel Charles {std. Acloque}|first entry]] for this author
+> [!example] See also [[Acloque, Alexandre Noel Charles|first entry]] for this author
 
 ### Author
 

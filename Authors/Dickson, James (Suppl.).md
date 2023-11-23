@@ -5,7 +5,7 @@ std_form: Dicks.
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259335) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dickson, James {std. Dicks.}|first entry]] for this author
+> [!example] See also [[Dickson, James|first entry]] for this author
 
 ### Author
 

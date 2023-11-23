@@ -5,7 +5,7 @@ std_form: Falkenb.
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259532) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Falkenberg, Paul {std. Falkenb.}|first entry]] for this author
+> [!example] See also [[Falkenberg, Paul|first entry]] for this author
 
 ### Author
 

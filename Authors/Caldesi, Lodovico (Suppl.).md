@@ -5,7 +5,7 @@ std_form: Caldesi
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33266617) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Caldesi, Lodovico (Ludovico) {std. Caldesi}|first entry]] for this author
+> [!example] See also [[Caldesi, Lodovico (Ludovico)|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Greene
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33258833) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Greene, Edward Lee {std. Greene}|first entry]] for this author
+> [!example] See also [[Greene, Edward Lee|first entry]] for this author
 
 ### Author
 

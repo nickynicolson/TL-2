@@ -5,7 +5,7 @@ std_form: Decne.
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33259180) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Decaisne, Joseph {std. Decne.}|first entry]] for this author
+> [!example] See also [[Decaisne, Joseph|first entry]] for this author
 
 ### Author
 

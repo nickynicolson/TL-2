@@ -5,7 +5,7 @@ std_form: Antoine
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33264859) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Antoine, Franz, Jr. {std. Antoine}|first entry]] for this author
+> [!example] See also [[Antoine, Franz, Jr.|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Duhamel
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33260143) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Duhamel du Monceau, Henri Louis {std. Duhamel}|first entry]] for this author
+> [!example] See also [[Duhamel du Monceau, Henri Louis|first entry]] for this author
 
 ### Author
 

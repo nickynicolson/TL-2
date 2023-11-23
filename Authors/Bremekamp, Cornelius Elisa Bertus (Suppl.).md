@@ -5,7 +5,7 @@ std_form: Bremek.
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33266359) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bremekamp, Cornelis Elisa Bertus {std. Bremek.}|first entry]] for this author
+> [!example] See also [[Bremekamp, Cornelis Elisa Bertus|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bensemann
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265273) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bensemann, Hermann {std. Bensemann}|first entry]] for this author
+> [!example] See also [[Bensemann, Hermann|first entry]] for this author
 
 ### Author
 

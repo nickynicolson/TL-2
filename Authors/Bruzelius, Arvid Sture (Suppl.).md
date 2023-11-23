@@ -5,7 +5,7 @@ std_form: Bruzelius
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33266475) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bruzelius, Arvid Sture {std. Bruzelius}|first entry]] for this author
+> [!example] See also [[Bruzelius, Arvid Sture|first entry]] for this author
 
 ### Author
 

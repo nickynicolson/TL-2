@@ -5,7 +5,7 @@ std_form: Bruce
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33266454) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bruce, James {std. Bruce}|first entry]] for this author
+> [!example] See also [[Bruce, James|first entry]] for this author
 
 ### Author
 

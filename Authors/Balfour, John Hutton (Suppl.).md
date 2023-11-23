@@ -5,7 +5,7 @@ std_form: Balf.
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33265025) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Balfour, John Hutton {std. Balf.}|first entry]] for this author
+> [!example] See also [[Balfour, John Hutton|first entry]] for this author
 
 ### Author
 

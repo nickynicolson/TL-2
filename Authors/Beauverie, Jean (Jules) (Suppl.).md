@@ -5,7 +5,7 @@ std_form: Beauverie
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33265203) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Beauverie, Jean Jules {std. Beauverie}|first entry]] for this author
+> [!example] See also [[Beauverie, Jean Jules|first entry]] for this author
 
 ### Author
 

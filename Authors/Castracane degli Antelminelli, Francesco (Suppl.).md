@@ -5,7 +5,7 @@ std_form: Castracane
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33266767) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Castracane degli Antelminelli, Francesco Saverio, Conte {std. Castracane}|first entry]] for this author
+> [!example] See also [[Castracane degli Antelminelli, Francesco Saverio, Conte|first entry]] for this author
 
 ### Author
 

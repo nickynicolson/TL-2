@@ -5,7 +5,7 @@ std_form: Eschenbach
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33260399) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Eschenbach, Johann Friedrich {std. Eschenbach}|first entry]] for this author
+> [!example] See also [[Eschenbach, Johann Friedrich|first entry]] for this author
 
 ### Author
 

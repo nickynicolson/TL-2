@@ -5,7 +5,7 @@ std_form: Danguy
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33259097) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Danguy, Paul Auguste {std. Danguy}|first entry]] for this author
+> [!example] See also [[Danguy, Paul Auguste|first entry]] for this author
 
 ### Author
 

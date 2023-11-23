@@ -5,7 +5,7 @@ std_form: Bég.
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33265240) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Béguinot, Augusto {std. Bég.}|first entry]] for this author
+> [!example] See also [[Béguinot, Augusto|first entry]] for this author
 
 ### Author
 

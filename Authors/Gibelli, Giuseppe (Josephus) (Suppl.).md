@@ -5,7 +5,7 @@ std_form: Gibelli
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33258677) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gibelli, Giuseppe {std. Gibelli}|first entry]] for this author
+> [!example] See also [[Gibelli, Giuseppe|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Chodat
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33265791) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chodat, Robert Hippolyte {std. Chodat}|first entry]] for this author
+> [!example] See also [[Chodat, Robert Hippolyte|first entry]] for this author
 
 ### Author
 

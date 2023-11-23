@@ -5,7 +5,7 @@ std_form: Desm.
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33259270) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Desmazières, Jean Baptiste Henri Joseph {std. Desm.}|first entry]] for this author
+> [!example] See also [[Desmazières, Jean Baptiste Henri Joseph|first entry]] for this author
 
 ### Author
 

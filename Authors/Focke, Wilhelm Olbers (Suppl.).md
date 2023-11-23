@@ -5,7 +5,7 @@ std_form: Focke
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33259784) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Focke, Wilhelm Olbers {std. Focke}|first entry]] for this author
+> [!example] See also [[Focke, Wilhelm Olbers|first entry]] for this author
 
 ### Author
 

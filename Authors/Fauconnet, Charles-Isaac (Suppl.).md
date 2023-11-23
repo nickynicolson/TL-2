@@ -5,7 +5,7 @@ std_form: Fauc.
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33259568) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fauconnet, Charles Isaac {std. Fauc.}|first entry]] for this author
+> [!example] See also [[Fauconnet, Charles Isaac|first entry]] for this author
 
 ### Author
 

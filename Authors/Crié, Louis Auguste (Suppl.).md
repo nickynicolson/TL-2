@@ -5,7 +5,7 @@ std_form: Crié
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266145) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Crié, Louis Auguste {std. Crié}|first entry]] for this author
+> [!example] See also [[Crié, Louis Auguste|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: E.Britton
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33266399) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Britton, Elizabeth Gertrude (née Knight) {std. E. Britton}|first entry]] for this author
+> [!example] See also [[Britton, Elizabeth Gertrude (née Knight)|first entry]] for this author
 
 ### Author
 

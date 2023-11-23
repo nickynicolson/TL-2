@@ -5,7 +5,7 @@ std_form: De Toni
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259286) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[De Toni, Giovanni Batista {std. De Toni}|first entry]] for this author
+> [!example] See also [[De Toni, Giovanni Batista|first entry]] for this author
 
 ### Author
 

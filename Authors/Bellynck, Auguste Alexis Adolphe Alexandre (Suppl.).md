@@ -5,7 +5,7 @@ std_form: Bellynck
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33265262) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bellynck, August Alexis Adolphe Alexandre {std. Bellynck}|first entry]] for this author
+> [!example] See also [[Bellynck, August Alexis Adolphe Alexandre|first entry]] for this author
 
 ### Author
 

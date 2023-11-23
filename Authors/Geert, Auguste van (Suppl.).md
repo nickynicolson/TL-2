@@ -5,7 +5,7 @@ std_form: Van Geert
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33258643) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Van Geert, Auguste (August) {std. Van Geert}|first entry]] for this author
+> [!example] See also [[Van Geert, Auguste (August)|first entry]] for this author
 
 ### Author
 

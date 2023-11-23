@@ -5,7 +5,7 @@ std_form: P.Browne
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33266453) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Browne, Patrick {std. P. Browne}|first entry]] for this author
+> [!example] See also [[Browne, Patrick|first entry]] for this author
 
 ### Author
 

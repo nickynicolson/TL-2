@@ -5,7 +5,7 @@ std_form: Bouton
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265590) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bouton, Louis {std. Bouton}|first entry]] for this author
+> [!example] See also [[Bouton, Louis|first entry]] for this author
 
 ### Author
 

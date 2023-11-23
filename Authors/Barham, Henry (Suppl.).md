@@ -5,7 +5,7 @@ std_form: Barham
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265052) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Barham, Henry {std. Barham}|first entry]] for this author
+> [!example] See also [[Barham, Henry|first entry]] for this author
 
 ### Author
 

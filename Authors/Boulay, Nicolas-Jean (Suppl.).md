@@ -5,7 +5,7 @@ std_form: Boulay
 > [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265579) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boulay, Abbé Jean Nicolas {std. Boulay}|first entry]] for this author
+> [!example] See also [[Boulay, Abbé Jean Nicolas|first entry]] for this author
 
 ### Author
 

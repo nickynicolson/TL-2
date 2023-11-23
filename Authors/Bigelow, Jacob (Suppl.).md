@@ -5,7 +5,7 @@ std_form: Bigelow
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33265358) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bigelow, Jacob {std. Bigelow}|first entry]] for this author
+> [!example] See also [[Bigelow, Jacob|first entry]] for this author
 
 ### Author
 

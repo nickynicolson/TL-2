@@ -5,7 +5,7 @@ std_form: De Moor
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33259244) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[De Moor, V. P. G. {std. De Moor}|first entry]] for this author
+> [!example] See also [[De Moor, V. P. G.|first entry]] for this author
 
 ### Author
 

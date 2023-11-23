@@ -5,7 +5,7 @@ std_form: Fenzl
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259636) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fenzl, Eduard {std. Fenzl}|first entry]] for this author
+> [!example] See also [[Fenzl, Eduard|first entry]] for this author
 
 ### Author
 

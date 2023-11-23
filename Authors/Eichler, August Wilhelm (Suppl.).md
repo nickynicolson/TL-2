@@ -5,7 +5,7 @@ std_form: Eichler
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33260264) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Eichler, August Wilhelm {std. Eichler}|first entry]] for this author
+> [!example] See also [[Eichler, August Wilhelm|first entry]] for this author
 
 ### Author
 

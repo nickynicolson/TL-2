@@ -5,7 +5,7 @@ std_form: Brenckle
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33266364) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brenckle, Jacob Frederic(k) {std. Brenckle}|first entry]] for this author
+> [!example] See also [[Brenckle, Jacob Frederic(k)|first entry]] for this author
 
 ### Author
 

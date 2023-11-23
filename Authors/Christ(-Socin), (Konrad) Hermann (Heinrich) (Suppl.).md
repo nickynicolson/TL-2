@@ -5,7 +5,7 @@ std_form: Christ
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33265819) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Christ, Konrad Hermann Heinrich {std. Christ}|first entry]] for this author
+> [!example] See also [[Christ, Konrad Hermann Heinrich|first entry]] for this author
 
 ### Author
 

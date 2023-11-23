@@ -5,7 +5,7 @@ std_form: Bachm.
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33264959) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bachmann, Franz Ewald Theodor {std. Bachm.}|first entry]] for this author
+> [!example] See also [[Bachmann, Franz Ewald Theodor|first entry]] for this author
 
 ### Author
 

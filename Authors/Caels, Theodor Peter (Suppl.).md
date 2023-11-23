@@ -5,7 +5,7 @@ std_form: Caels
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33266604) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Caels, Theodor Peter {std. Caels}|first entry]] for this author
+> [!example] See also [[Caels, Theodor Peter|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Gürke
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33258915) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Guerke, Robert Louis August Maximilian (Max) {std. Gürke}|first entry]] for this author
+> [!example] See also [[Guerke, Robert Louis August Maximilian (Max)|first entry]] for this author
 
 ### Author
 

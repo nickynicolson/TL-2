@@ -5,7 +5,7 @@ std_form: Bonato
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265505) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bonato, Giuseppe Antonio {std. Bonato}|first entry]] for this author
+> [!example] See also [[Bonato, Giuseppe Antonio|first entry]] for this author
 
 ### Author
 

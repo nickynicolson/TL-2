@@ -5,7 +5,7 @@ std_form: Buckland
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33266508) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buckland, William {std. Buckland}|first entry]] for this author
+> [!example] See also [[Buckland, William|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bosc
 > [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33265564) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bosc, Louis Auguste Guillaume (early Bosc dAntic) {std. Bosc}|first entry]] for this author
+> [!example] See also [[Bosc, Louis Auguste Guillaume (early Bosc dAntic)|first entry]] for this author
 
 ### Author
 

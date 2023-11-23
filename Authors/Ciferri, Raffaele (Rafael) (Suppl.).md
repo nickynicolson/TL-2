@@ -5,7 +5,7 @@ std_form: Cif.
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33265851) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ciferri, Raffaele {std. Cif.}|first entry]] for this author
+> [!example] See also [[Ciferri, Raffaele|first entry]] for this author
 
 ### Author
 

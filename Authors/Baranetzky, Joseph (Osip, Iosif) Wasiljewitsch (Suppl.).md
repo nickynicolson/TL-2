@@ -5,7 +5,7 @@ std_form: Baranetzky
 > [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33265040) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baranetzky, Joseph (Osip) Wasiljewitsch {std. Baranetzky}|first entry]] for this author
+> [!example] See also [[Baranetzky, Joseph (Osip) Wasiljewitsch|first entry]] for this author
 
 ### Author
 

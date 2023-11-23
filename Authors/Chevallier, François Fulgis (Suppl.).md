@@ -5,7 +5,7 @@ std_form: Chevall.
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265774) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chevallier, François Fulgis {std. Chevall.}|first entry]] for this author
+> [!example] See also [[Chevallier, François Fulgis|first entry]] for this author
 
 ### Author
 

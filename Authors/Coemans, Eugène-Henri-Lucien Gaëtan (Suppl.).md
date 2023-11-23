@@ -5,7 +5,7 @@ std_form: Coem.
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33265922) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Coemans, Abbé Henri Eugène Lucien Gaëtan {std. Coem.}|first entry]] for this author
+> [!example] See also [[Coemans, Abbé Henri Eugène Lucien Gaëtan|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Didr.
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33259338) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Didrichsen, Didrik Ferdinand {std. Didr.}|first entry]] for this author
+> [!example] See also [[Didrichsen, Didrik Ferdinand|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Ard.
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33264878) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arduino, Pietro {std. Ard.}|first entry]] for this author
+> [!example] See also [[Arduino, Pietro|first entry]] for this author
 
 ### Author
 

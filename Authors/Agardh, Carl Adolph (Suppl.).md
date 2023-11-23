@@ -5,7 +5,7 @@ std_form: C.Agardh
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33264726) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Agardh, Carl Adolf {std. C. Agardh}|first entry]] for this author
+> [!example] See also [[Agardh, Carl Adolf|first entry]] for this author
 
 ### Author
 

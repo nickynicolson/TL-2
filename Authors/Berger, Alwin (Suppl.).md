@@ -5,7 +5,7 @@ std_form: A.Berger
 > [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33265285) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Berger, Alwin {std. A. Berger}|first entry]] for this author
+> [!example] See also [[Berger, Alwin|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Duch.
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33260116) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Duchartre, Pierre-Étienne-Simon {std. Duch.}|first entry]] for this author
+> [!example] See also [[Duchartre, Pierre-Étienne-Simon|first entry]] for this author
 
 ### Author
 

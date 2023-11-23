@@ -5,7 +5,7 @@ std_form: Chenevard
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chenevard, Paul {std. Chenevard}|first entry]] for this author
+> [!example] See also [[Chenevard, Paul|first entry]] for this author
 
 ### Author
 

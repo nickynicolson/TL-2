@@ -5,7 +5,7 @@ std_form: Engelm.
 > [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33260333) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Engelmann, Georg {std. Engelm.}|first entry]] for this author
+> [!example] See also [[Engelmann, Georg|first entry]] for this author
 
 ### Author
 

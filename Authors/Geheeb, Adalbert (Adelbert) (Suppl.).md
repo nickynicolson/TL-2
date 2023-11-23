@@ -5,7 +5,7 @@ std_form: Geh.
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33258643) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Geheeb, Adalbert {std. Geh.}|first entry]] for this author
+> [!example] See also [[Geheeb, Adalbert|first entry]] for this author
 
 ### Author
 

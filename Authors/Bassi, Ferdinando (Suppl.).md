@@ -5,7 +5,7 @@ std_form: Bassi
 > [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33265094) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bassi, Ferdinando {std. Bassi}|first entry]] for this author
+> [!example] See also [[Bassi, Ferdinando|first entry]] for this author
 
 ### Author
 

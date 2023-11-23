@@ -5,7 +5,7 @@ std_form: Delavay
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33259219) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Delavay, (Père) Pierre Jean Marie {std. Delavay}|first entry]] for this author
+> [!example] See also [[Delavay, (Père) Pierre Jean Marie|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bower
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265594) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bower, Frederick Orpen {std. Bower}|first entry]] for this author
+> [!example] See also [[Bower, Frederick Orpen|first entry]] for this author
 
 ### Author
 

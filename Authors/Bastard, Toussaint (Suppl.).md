@@ -5,7 +5,7 @@ std_form: Bastard
 > [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33265094) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bastard, Toussaint {std. Bastard}|first entry]] for this author
+> [!example] See also [[Bastard, Toussaint|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Des Moul.
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33259274) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Des Moulins, Charles Robert Alexandre {std. Des Moul.}|first entry]] for this author
+> [!example] See also [[Des Moulins, Charles Robert Alexandre|first entry]] for this author
 
 ### Author
 

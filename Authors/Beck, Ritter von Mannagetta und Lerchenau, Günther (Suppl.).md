@@ -5,7 +5,7 @@ std_form: Beck
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265216) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Beck, Ritter von Mannagetta und Lerchenau, Günther {std. Beck}|first entry]] for this author
+> [!example] See also [[Beck, Ritter von Mannagetta und Lerchenau, Günther|first entry]] for this author
 
 ### Author
 

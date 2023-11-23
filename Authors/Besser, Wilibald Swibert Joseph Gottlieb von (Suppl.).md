@@ -5,7 +5,7 @@ std_form: Besser
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33265337) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Besser, Wilibald Swibert Joseph Gottlieb von {std. Besser}|first entry]] for this author
+> [!example] See also [[Besser, Wilibald Swibert Joseph Gottlieb von|first entry]] for this author
 
 ### Author
 

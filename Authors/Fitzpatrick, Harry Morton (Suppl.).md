@@ -5,7 +5,7 @@ std_form: Fitzp.
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259735) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fitzpatrick, Harry Morton {std. Fitzp.}|first entry]] for this author
+> [!example] See also [[Fitzpatrick, Harry Morton|first entry]] for this author
 
 ### Author
 

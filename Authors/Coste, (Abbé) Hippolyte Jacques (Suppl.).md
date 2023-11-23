@@ -5,7 +5,7 @@ std_form: H.J.Coste
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33266076) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Coste, (Abbé) Hippolyte Jacques {std. H.J. Coste}|first entry]] for this author
+> [!example] See also [[Coste, (Abbé) Hippolyte Jacques|first entry]] for this author
 
 ### Author
 

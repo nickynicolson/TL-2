@@ -5,7 +5,7 @@ std_form: Baker
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265004) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baker, John Gilbert {std. Baker}|first entry]] for this author
+> [!example] See also [[Baker, John Gilbert|first entry]] for this author
 
 ### Author
 

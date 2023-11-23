@@ -5,7 +5,7 @@ std_form: J.Carey
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266719) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Carey, John {std. J. Carey}|first entry]] for this author
+> [!example] See also [[Carey, John|first entry]] for this author
 
 ### Author
 

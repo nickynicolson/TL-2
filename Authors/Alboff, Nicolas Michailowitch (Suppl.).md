@@ -5,7 +5,7 @@ std_form: Alboff
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33264788) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Alboff (Albov), Nicolai Michailowitch {std. Alboff}|first entry]] for this author
+> [!example] See also [[Alboff (Albov), Nicolai Michailowitch|first entry]] for this author
 
 ### Author
 

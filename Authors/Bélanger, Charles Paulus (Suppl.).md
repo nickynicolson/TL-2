@@ -5,7 +5,7 @@ std_form: Bél.
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33265258) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bélanger, Charles Paulus {std. Bél.}|first entry]] for this author
+> [!example] See also [[Bélanger, Charles Paulus|first entry]] for this author
 
 ### Author
 

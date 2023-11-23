@@ -5,7 +5,7 @@ std_form: Chardón
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33265730) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chardón Palacios, Carlos Eugenio {std. Chardón}|first entry]] for this author
+> [!example] See also [[Chardón Palacios, Carlos Eugenio|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Buetschli
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33266517) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buetschli, Johann Adam Otto {std. Buetschli}|first entry]] for this author
+> [!example] See also [[Buetschli, Johann Adam Otto|first entry]] for this author
 
 ### Author
 

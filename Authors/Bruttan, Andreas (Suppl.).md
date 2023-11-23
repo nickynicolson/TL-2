@@ -5,7 +5,7 @@ std_form: Bruttan
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33266474) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bruttan, Andreas {std. Bruttan}|first entry]] for this author
+> [!example] See also [[Bruttan, Andreas|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: J.Areschoug
 > [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33264885) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Areschoug, John Erhard {std. J. Areschoug}|first entry]] for this author
+> [!example] See also [[Areschoug, John Erhard|first entry]] for this author
 
 ### Author
 

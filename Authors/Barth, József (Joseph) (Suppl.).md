@@ -5,7 +5,7 @@ std_form: Barth
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265069) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Barth, József (Joseph) {std. Barth}|first entry]] for this author
+> [!example] See also [[Barth, József (Joseph)|first entry]] for this author
 
 ### Author
 

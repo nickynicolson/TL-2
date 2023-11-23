@@ -5,7 +5,7 @@ std_form: Gusul.
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33258943) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gusuleac, Mihail {std. Gusul.}|first entry]] for this author
+> [!example] See also [[Gusuleac, Mihail|first entry]] for this author
 
 ### Author
 

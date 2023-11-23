@@ -5,7 +5,7 @@ std_form: Cooke
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33266004) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cooke, Mordecai Cubitt {std. Cooke}|first entry]] for this author
+> [!example] See also [[Cooke, Mordecai Cubitt|first entry]] for this author
 
 ### Author
 

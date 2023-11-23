@@ -5,7 +5,7 @@ std_form: Craib
 > [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33266116) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Craib, William Grant {std. Craib}|first entry]] for this author
+> [!example] See also [[Craib, William Grant|first entry]] for this author
 
 ### Author
 

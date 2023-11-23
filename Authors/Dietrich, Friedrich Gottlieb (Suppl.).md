@@ -5,7 +5,7 @@ std_form: F.Dietr.
 > [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33259381) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dietrich, Friedrich Gottlieb {std. F. Dietr.}|first entry]] for this author
+> [!example] See also [[Dietrich, Friedrich Gottlieb|first entry]] for this author
 
 ### Author
 

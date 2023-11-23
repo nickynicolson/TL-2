@@ -5,7 +5,7 @@ std_form: Bornet
 > [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33265540) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bornet, Jean-Baptiste Édouard {std. Bornet}|first entry]] for this author
+> [!example] See also [[Bornet, Jean-Baptiste Édouard|first entry]] for this author
 
 ### Author
 

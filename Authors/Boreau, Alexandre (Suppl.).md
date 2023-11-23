@@ -5,7 +5,7 @@ std_form: Boreau
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33265530) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boreau, Alexandre {std. Boreau}|first entry]] for this author
+> [!example] See also [[Boreau, Alexandre|first entry]] for this author
 
 ### Author
 

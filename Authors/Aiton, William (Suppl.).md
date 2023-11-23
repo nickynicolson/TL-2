@@ -5,7 +5,7 @@ std_form: Aiton
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33264745) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Aiton, William {std. Aiton}|first entry]] for this author
+> [!example] See also [[Aiton, William|first entry]] for this author
 
 ### Author
 

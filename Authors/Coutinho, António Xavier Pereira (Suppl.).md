@@ -5,7 +5,7 @@ std_form: Cout.
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33266103) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Coutinho, António Xavier Pereira {std. Cout.}|first entry]] for this author
+> [!example] See also [[Coutinho, António Xavier Pereira|first entry]] for this author
 
 ### Author
 

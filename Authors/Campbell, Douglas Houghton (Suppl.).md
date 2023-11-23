@@ -5,7 +5,7 @@ std_form: Campb.
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33266634) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Campbell, Douglas Houghton {std. Campb.}|first entry]] for this author
+> [!example] See also [[Campbell, Douglas Houghton|first entry]] for this author
 
 ### Author
 

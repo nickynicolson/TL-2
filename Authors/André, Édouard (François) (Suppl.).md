@@ -5,7 +5,7 @@ std_form: André
 > [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33264846) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[André, Édouard François {std. André}|first entry]] for this author
+> [!example] See also [[André, Édouard François|first entry]] for this author
 
 ### Author
 

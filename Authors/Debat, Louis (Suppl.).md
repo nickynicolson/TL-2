@@ -5,7 +5,7 @@ std_form: Debat
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259170) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Debat, Louis {std. Debat}|first entry]] for this author
+> [!example] See also [[Debat, Louis|first entry]] for this author
 
 ### Author
 

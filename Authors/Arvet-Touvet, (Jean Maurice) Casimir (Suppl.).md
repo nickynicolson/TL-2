@@ -5,7 +5,7 @@ std_form: Arv.-Touv.
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33264908) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arvet-Touvet, Jean Maurice Casimir {std. Arv.-Touv.}|first entry]] for this author
+> [!example] See also [[Arvet-Touvet, Jean Maurice Casimir|first entry]] for this author
 
 ### Author
 

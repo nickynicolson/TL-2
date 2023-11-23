@@ -5,7 +5,7 @@ std_form: Battarra
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33265106) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Battarra, Giovanni Antonio {std. Battarra}|first entry]] for this author
+> [!example] See also [[Battarra, Giovanni Antonio|first entry]] for this author
 
 ### Author
 

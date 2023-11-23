@@ -5,7 +5,7 @@ std_form: Daiber
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33259067) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Daiber, J. {std. Daiber}|first entry]] for this author
+> [!example] See also [[Daiber, J.|first entry]] for this author
 
 ### Author
 

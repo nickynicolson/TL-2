@@ -5,7 +5,7 @@ std_form: Andrzejovski
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33264854) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Andrzeiovski, Antoni Lukianovich {std. Andrzejovski}|first entry]] for this author
+> [!example] See also [[Andrzeiovski, Antoni Lukianovich|first entry]] for this author
 
 ### Author
 

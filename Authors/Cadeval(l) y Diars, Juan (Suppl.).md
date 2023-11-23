@@ -5,7 +5,7 @@ std_form: Cadevall
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33266603) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cadeval(l) y Diars, Juan {std. Cadevall}|first entry]] for this author
+> [!example] See also [[Cadeval(l) y Diars, Juan|first entry]] for this author
 
 ### Author
 

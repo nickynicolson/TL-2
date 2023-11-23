@@ -5,7 +5,7 @@ std_form: Bocq.
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33265438) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bocquillon, Henri Théophile {std. Bocq.}|first entry]] for this author
+> [!example] See also [[Bocquillon, Henri Théophile|first entry]] for this author
 
 ### Author
 

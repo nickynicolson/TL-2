@@ -5,7 +5,7 @@ std_form: Degen
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33259197) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Degen, Arpád von {std. Degen}|first entry]] for this author
+> [!example] See also [[Degen, Arpád von|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bouvier
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265593) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bouvier, Jean-Louis {std. Bouvier}|first entry]] for this author
+> [!example] See also [[Bouvier, Jean-Louis|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: A.Braun
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33266330) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Braun, Alexander Carl Heinrich {std. A. Braun}|first entry]] for this author
+> [!example] See also [[Braun, Alexander Carl Heinrich|first entry]] for this author
 
 ### Author
 

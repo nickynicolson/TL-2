@@ -5,7 +5,7 @@ std_form: Crueg.
 > [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33266163) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Crueger, Hermann {std. Crueg.}|first entry]] for this author
+> [!example] See also [[Crueger, Hermann|first entry]] for this author
 
 ### Author
 

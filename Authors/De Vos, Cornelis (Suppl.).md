@@ -5,7 +5,7 @@ std_form: De Vos
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Vos, André (Pascal Alexandre) de (De Vos) {std. De Vos}|first entry]] for this author
+> [!example] See also [[Vos, André (Pascal Alexandre) de (De Vos)|first entry]] for this author
 
 ### Author
 

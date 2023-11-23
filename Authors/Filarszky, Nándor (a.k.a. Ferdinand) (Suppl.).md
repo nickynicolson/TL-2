@@ -5,7 +5,7 @@ std_form: Fil.
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33259685) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Filarszky, Nandor {std. Fil.}|first entry]] for this author
+> [!example] See also [[Filarszky, Nandor|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: C.E.C.Fischer
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33259707) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fischer, Cecil Ernest Claude {std. C.E.C. Fischer}|first entry]] for this author
+> [!example] See also [[Fischer, Cecil Ernest Claude|first entry]] for this author
 
 ### Author
 

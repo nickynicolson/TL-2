@@ -5,7 +5,7 @@ std_form: Elenkin
 > [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33260287) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Elenkin, Aleksander Aleksandrovitch {std. Elenkin}|first entry]] for this author
+> [!example] See also [[Elenkin, Aleksander Aleksandrovitch|first entry]] for this author
 
 ### Author
 

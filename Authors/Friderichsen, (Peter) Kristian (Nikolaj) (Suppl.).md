@@ -5,7 +5,7 @@ std_form: Frid.
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33258515) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Friderichsen, Peter Kristian Nicolaj {std. Frid.}|first entry]] for this author
+> [!example] See also [[Friderichsen, Peter Kristian Nicolaj|first entry]] for this author
 
 ### Author
 

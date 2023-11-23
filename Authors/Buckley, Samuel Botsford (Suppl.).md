@@ -5,7 +5,7 @@ std_form: Buckley
 > [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33266509) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buckley, Samuel Botsford {std. Buckley}|first entry]] for this author
+> [!example] See also [[Buckley, Samuel Botsford|first entry]] for this author
 
 ### Author
 

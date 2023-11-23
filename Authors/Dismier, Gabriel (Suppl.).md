@@ -5,7 +5,7 @@ std_form: Dism.
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259397) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dismier, Gabriel {std. Dism.}|first entry]] for this author
+> [!example] See also [[Dismier, Gabriel|first entry]] for this author
 
 ### Author
 

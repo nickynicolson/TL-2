@@ -5,7 +5,7 @@ std_form: Dalzell
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33259079) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dalzell, Nicol (Nicholas) Alexander {std. Dalzell}|first entry]] for this author
+> [!example] See also [[Dalzell, Nicol (Nicholas) Alexander|first entry]] for this author
 
 ### Author
 

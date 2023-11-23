@@ -5,7 +5,7 @@ std_form: Frye
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33258543) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Frye, Theodore Christian {std. Frye}|first entry]] for this author
+> [!example] See also [[Frye, Theodore Christian|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Goepp.
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33258744) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Goeppert (Göppert), (Johann) Heinrich Robert {std. Goepp.}|first entry]] for this author
+> [!example] See also [[Goeppert (Göppert), (Johann) Heinrich Robert|first entry]] for this author
 
 ### Author
 

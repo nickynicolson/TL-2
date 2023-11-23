@@ -5,7 +5,7 @@ std_form: Galeotti
 > [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33258583) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Galeotti, Henri Guillaume {std. Galeotti}|first entry]] for this author
+> [!example] See also [[Galeotti, Henri Guillaume|first entry]] for this author
 
 ### Author
 

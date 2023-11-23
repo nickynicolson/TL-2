@@ -5,7 +5,7 @@ std_form: Goor
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33258786) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Goor, Andreas Cornelis Joseph van {std. Goor}|first entry]] for this author
+> [!example] See also [[Goor, Andreas Cornelis Joseph van|first entry]] for this author
 
 ### Author
 

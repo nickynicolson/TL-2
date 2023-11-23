@@ -5,7 +5,7 @@ std_form: Geyl.
 > [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33258669) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Geyler, Hermann Theodor {std. Geyl.}|first entry]] for this author
+> [!example] See also [[Geyler, Hermann Theodor|first entry]] for this author
 
 ### Author
 

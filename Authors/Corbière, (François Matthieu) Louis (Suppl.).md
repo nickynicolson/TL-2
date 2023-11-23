@@ -5,7 +5,7 @@ std_form: Corb.
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33266029) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Corbière, Louis {std. Corb.}|first entry]] for this author
+> [!example] See also [[Corbière, Louis|first entry]] for this author
 
 ### Author
 

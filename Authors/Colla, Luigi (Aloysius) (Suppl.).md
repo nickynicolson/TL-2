@@ -5,7 +5,7 @@ std_form: Colla
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33265944) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Colla, Luigi Aloysius {std. Colla}|first entry]] for this author
+> [!example] See also [[Colla, Luigi Aloysius|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: F.A.Bauer
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33265111) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bauer, Franz Andreas {std. F.A. Bauer}|first entry]] for this author
+> [!example] See also [[Bauer, Franz Andreas|first entry]] for this author
 
 ### Author
 

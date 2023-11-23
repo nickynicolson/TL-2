@@ -5,7 +5,7 @@ std_form: Bohnst.
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265472) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bohnstedt, Alexander Reinhold {std. Bohnst.}|first entry]] for this author
+> [!example] See also [[Bohnstedt, Alexander Reinhold|first entry]] for this author
 
 ### Author
 

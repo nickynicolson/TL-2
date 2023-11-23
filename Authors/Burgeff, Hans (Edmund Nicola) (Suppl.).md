@@ -5,7 +5,7 @@ std_form: Burgeff
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33266542) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Burgeff, Hans Edmund Nicola {std. Burgeff}|first entry]] for this author
+> [!example] See also [[Burgeff, Hans Edmund Nicola|first entry]] for this author
 
 ### Author
 

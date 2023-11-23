@@ -5,7 +5,7 @@ std_form: C.F.Gaertn.
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33258569) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gaertner, Carl (Karl) Friedrich von {std. C.F. Gaertn.}|first entry]] for this author
+> [!example] See also [[Gaertner, Carl (Karl) Friedrich von|first entry]] for this author
 
 ### Author
 

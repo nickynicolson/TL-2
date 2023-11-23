@@ -5,7 +5,7 @@ std_form: Bonnet
 > [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33265510) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bonnet, Edmond {std. Bonnet}|first entry]] for this author
+> [!example] See also [[Bonnet, Edmond|first entry]] for this author
 
 ### Author
 

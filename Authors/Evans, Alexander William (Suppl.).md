@@ -5,7 +5,7 @@ std_form: A.Evans
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33260410) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Evans, Alexander William {std. A. Evans}|first entry]] for this author
+> [!example] See also [[Evans, Alexander William|first entry]] for this author
 
 ### Author
 

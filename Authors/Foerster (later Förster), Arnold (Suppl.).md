@@ -5,7 +5,7 @@ std_form: A.Foerster
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259791) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Foerster, Arnold {std. A. Foerster}|first entry]] for this author
+> [!example] See also [[Foerster, Arnold|first entry]] for this author
 
 ### Author
 

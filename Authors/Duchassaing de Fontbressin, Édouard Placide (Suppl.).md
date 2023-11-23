@@ -5,7 +5,7 @@ std_form: Duchass.
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33260122) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Duchassaing de Fontbressin, Èdouard Placide {std. Duchass.}|first entry]] for this author
+> [!example] See also [[Duchassaing de Fontbressin, Èdouard Placide|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Filet
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259686) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Filet, G. J. {std. Filet}|first entry]] for this author
+> [!example] See also [[Filet, G. J.|first entry]] for this author
 
 ### Author
 

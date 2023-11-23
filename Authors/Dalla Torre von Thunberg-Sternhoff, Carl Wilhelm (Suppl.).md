@@ -5,7 +5,7 @@ std_form: Dalla Torre
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259074) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dalla Torre von Thurnberg-Sternhoff, Karl Wilhelm von {std. Dalla Torre}|first entry]] for this author
+> [!example] See also [[Dalla Torre von Thurnberg-Sternhoff, Karl Wilhelm von|first entry]] for this author
 
 ### Author
 

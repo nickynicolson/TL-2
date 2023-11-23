@@ -5,7 +5,7 @@ std_form: Font Quer
 > [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33259804) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Font i Quer, Pio (Font Quer, Pius) {std. Font Quer}|first entry]] for this author
+> [!example] See also [[Font i Quer, Pio (Font Quer, Pius)|first entry]] for this author
 
 ### Author
 

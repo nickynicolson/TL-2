@@ -5,7 +5,7 @@ std_form: Ewart
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33260425) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ewart, Alfred James {std. Ewart}|first entry]] for this author
+> [!example] See also [[Ewart, Alfred James|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Desf.
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33259266) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Desfontaines, René Louiche {std. Desf.}|first entry]] for this author
+> [!example] See also [[Desfontaines, René Louiche|first entry]] for this author
 
 ### Author
 

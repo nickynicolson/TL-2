@@ -5,7 +5,7 @@ std_form: Andres
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33264849) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Andres, Heinrich {std. Andres}|first entry]] for this author
+> [!example] See also [[Andres, Heinrich|first entry]] for this author
 
 ### Author
 

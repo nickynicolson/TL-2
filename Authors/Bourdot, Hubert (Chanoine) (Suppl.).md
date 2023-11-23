@@ -5,7 +5,7 @@ std_form: Bourdot
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265588) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bourdot, abbé Hubert {std. Bourdot}|first entry]] for this author
+> [!example] See also [[Bourdot, abbé Hubert|first entry]] for this author
 
 ### Author
 

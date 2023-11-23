@@ -5,7 +5,7 @@ std_form: J.Bleicher
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33265408) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bleicher, Joseph {std. J. Bleicher}|first entry]] for this author
+> [!example] See also [[Bleicher, Joseph|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Boucher
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boucher de Crèvecoeur, Jules Armand Guillaume {std. Boucher}|first entry]] for this author
+> [!example] See also [[Boucher de Crèvecoeur, Jules Armand Guillaume|first entry]] for this author
 
 ### Author
 

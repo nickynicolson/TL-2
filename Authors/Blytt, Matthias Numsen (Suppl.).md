@@ -5,7 +5,7 @@ std_form: Blytt
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33265433) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Blytt, Mattias Numsen {std. Blytt}|first entry]] for this author
+> [!example] See also [[Blytt, Mattias Numsen|first entry]] for this author
 
 ### Author
 

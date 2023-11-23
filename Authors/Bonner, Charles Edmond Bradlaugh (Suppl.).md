@@ -5,7 +5,7 @@ std_form: Bonner
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265509) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bonner, Charles Edmond Bradlaugh {std. Bonner}|first entry]] for this author
+> [!example] See also [[Bonner, Charles Edmond Bradlaugh|first entry]] for this author
 
 ### Author
 

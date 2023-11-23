@@ -5,7 +5,7 @@ std_form: L.Bolus
 > [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265496) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bolus, Harriet Margaret Louisa (née Kensit) {std. L. Bolus}|first entry]] for this author
+> [!example] See also [[Bolus, Harriet Margaret Louisa (née Kensit)|first entry]] for this author
 
 ### Author
 

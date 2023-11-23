@@ -5,7 +5,7 @@ std_form: E.P.Bicknell
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265353) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bicknell, Eugene Pintard {std. E.P. Bicknell}|first entry]] for this author
+> [!example] See also [[Bicknell, Eugene Pintard|first entry]] for this author
 
 ### Author
 

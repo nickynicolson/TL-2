@@ -5,7 +5,7 @@ std_form: Benth.
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265273) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bentham, George {std. Benth.}|first entry]] for this author
+> [!example] See also [[Bentham, George|first entry]] for this author
 
 ### Author
 

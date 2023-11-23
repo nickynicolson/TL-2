@@ -5,7 +5,7 @@ std_form: Donk
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33260042) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Donk, Marinus Anton {std. Donk}|first entry]] for this author
+> [!example] See also [[Donk, Marinus Anton|first entry]] for this author
 
 ### Author
 

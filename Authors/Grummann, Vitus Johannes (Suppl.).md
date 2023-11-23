@@ -5,7 +5,7 @@ std_form: Grumm.
 > [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33258906) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Grumman, Vitus Johannes {std. Grumm.}|first entry]] for this author
+> [!example] See also [[Grumman, Vitus Johannes|first entry]] for this author
 
 ### Author
 

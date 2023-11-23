@@ -5,7 +5,7 @@ std_form: Bory
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33265559) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de {std. Bory}|first entry]] for this author
+> [!example] See also [[Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de|first entry]] for this author
 
 ### Author
 

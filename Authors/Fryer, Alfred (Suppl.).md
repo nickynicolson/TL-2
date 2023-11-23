@@ -5,7 +5,7 @@ std_form: Fryer
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33258547) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fryer, Alfred {std. Fryer}|first entry]] for this author
+> [!example] See also [[Fryer, Alfred|first entry]] for this author
 
 ### Author
 

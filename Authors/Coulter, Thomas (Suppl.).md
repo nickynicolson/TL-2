@@ -5,7 +5,7 @@ std_form: Coult.
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33266098) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Coulter, Thomas {std. Coult.}|first entry]] for this author
+> [!example] See also [[Coulter, Thomas|first entry]] for this author
 
 ### Author
 

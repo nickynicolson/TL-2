@@ -5,7 +5,7 @@ std_form: E.Fourn.
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33259862) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fournier, Eugène Pierre Nicolas {std. E. Fourn.}|first entry]] for this author
+> [!example] See also [[Fournier, Eugène Pierre Nicolas|first entry]] for this author
 
 ### Author
 

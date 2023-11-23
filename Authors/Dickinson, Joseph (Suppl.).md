@@ -5,7 +5,7 @@ std_form: Dickinson
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259333) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dickinson, Joseph {std. Dickinson}|first entry]] for this author
+> [!example] See also [[Dickinson, Joseph|first entry]] for this author
 
 ### Author
 

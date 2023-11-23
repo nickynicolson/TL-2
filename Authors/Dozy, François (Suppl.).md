@@ -5,7 +5,7 @@ std_form: Dozy
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dozy, François {std. Dozy}|first entry]] for this author
+> [!example] See also [[Dozy, François|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bres.
 > [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33266373) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bresadola, Don Giacopo (Giacomo, abate) {std. Bres.}|first entry]] for this author
+> [!example] See also [[Bresadola, Don Giacopo (Giacomo, abate)|first entry]] for this author
 
 ### Author
 

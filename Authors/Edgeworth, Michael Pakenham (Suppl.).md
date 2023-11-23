@@ -5,7 +5,7 @@ std_form: Edgew.
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33260246) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Edgeworth, Michael Pakenham {std. Edgew.}|first entry]] for this author
+> [!example] See also [[Edgeworth, Michael Pakenham|first entry]] for this author
 
 ### Author
 

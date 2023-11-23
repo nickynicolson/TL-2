@@ -5,7 +5,7 @@ std_form: Cromb.
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33266150) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Crombie, James Mascall (Morrison) {std. Cromb.}|first entry]] for this author
+> [!example] See also [[Crombie, James Mascall (Morrison)|first entry]] for this author
 
 ### Author
 

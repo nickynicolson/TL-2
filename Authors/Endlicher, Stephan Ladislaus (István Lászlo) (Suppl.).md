@@ -5,7 +5,7 @@ std_form: Endl.
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33260326) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Endlicher, Stephan Ladislaus {std. Endl.}|first entry]] for this author
+> [!example] See also [[Endlicher, Stephan Ladislaus|first entry]] for this author
 
 ### Author
 

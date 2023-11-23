@@ -5,7 +5,7 @@ std_form: Ferreira
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33259667) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ferreira, Alexandre (Alejandro) Rodrigues {std. Ferreira}|first entry]] for this author
+> [!example] See also [[Ferreira, Alexandre (Alejandro) Rodrigues|first entry]] for this author
 
 ### Author
 

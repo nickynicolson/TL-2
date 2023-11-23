@@ -5,7 +5,7 @@ std_form: E.Bauer
 > [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265109) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bauer, Ernst {std. E. Bauer}|first entry]] for this author
+> [!example] See also [[Bauer, Ernst|first entry]] for this author
 
 ### Author
 

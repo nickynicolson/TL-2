@@ -5,7 +5,7 @@ std_form: Chapm.
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265726) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chapman, Alvan Wentworth {std. Chapm.}|first entry]] for this author
+> [!example] See also [[Chapman, Alvan Wentworth|first entry]] for this author
 
 ### Author
 

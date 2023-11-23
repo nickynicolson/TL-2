@@ -5,7 +5,7 @@ std_form: Clemente
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265882) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Clemente y Rubio, Simon de Rojas {std. Clemente}|first entry]] for this author
+> [!example] See also [[Clemente y Rubio, Simon de Rojas|first entry]] for this author
 
 ### Author
 

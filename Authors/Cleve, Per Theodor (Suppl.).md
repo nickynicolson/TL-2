@@ -5,7 +5,7 @@ std_form: Cleve
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33265891) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cleve, Per Theodor {std. Cleve}|first entry]] for this author
+> [!example] See also [[Cleve, Per Theodor|first entry]] for this author
 
 ### Author
 

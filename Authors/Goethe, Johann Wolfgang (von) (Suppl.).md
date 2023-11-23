@@ -5,7 +5,7 @@ std_form: Goethe
 > [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33258751) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Goethe, Johann Wolfgang von {std. Goethe}|first entry]] for this author
+> [!example] See also [[Goethe, Johann Wolfgang von|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: J.Bartram
 > [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33265081) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bartram, John {std. J. Bartram}|first entry]] for this author
+> [!example] See also [[Bartram, John|first entry]] for this author
 
 ### Author
 

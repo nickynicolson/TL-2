@@ -5,7 +5,7 @@ std_form: Cumm.
 > [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33266177) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cummings, Clara Eaton {std. Cumm.}|first entry]] for this author
+> [!example] See also [[Cummings, Clara Eaton|first entry]] for this author
 
 ### Author
 

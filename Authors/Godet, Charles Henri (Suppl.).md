@@ -5,7 +5,7 @@ std_form: Godet
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33258729) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Godet, Charles Henri {std. Godet}|first entry]] for this author
+> [!example] See also [[Godet, Charles Henri|first entry]] for this author
 
 ### Author
 

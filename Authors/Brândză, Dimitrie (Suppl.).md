@@ -5,7 +5,7 @@ std_form: D.Brândză
 > [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33266325) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brândzǎ, Dimitrie {std. D. Brândză}|first entry]] for this author
+> [!example] See also [[Brândzǎ, Dimitrie|first entry]] for this author
 
 ### Author
 

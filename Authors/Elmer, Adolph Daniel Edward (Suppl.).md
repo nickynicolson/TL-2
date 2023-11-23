@@ -5,7 +5,7 @@ std_form: Elmer
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33260303) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Elmer, Adolph Daniel Edward {std. Elmer}|first entry]] for this author
+> [!example] See also [[Elmer, Adolph Daniel Edward|first entry]] for this author
 
 ### Author
 

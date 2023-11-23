@@ -5,7 +5,7 @@ std_form: Brack.
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33266309) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brackenridge, William Dunlop {std. Brack.}|first entry]] for this author
+> [!example] See also [[Brackenridge, William Dunlop|first entry]] for this author
 
 ### Author
 

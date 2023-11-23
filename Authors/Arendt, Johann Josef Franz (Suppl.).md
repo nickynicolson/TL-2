@@ -5,7 +5,7 @@ std_form: Arendt
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arendt, Johann Josef Franz {std. Arendt}|first entry]] for this author
+> [!example] See also [[Arendt, Johann Josef Franz|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Auersw.
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33264937) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Auerswald, Bernhard {std. Auersw.}|first entry]] for this author
+> [!example] See also [[Auerswald, Bernhard|first entry]] for this author
 
 ### Author
 

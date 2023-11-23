@@ -5,7 +5,7 @@ std_form: E.Bayer
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265123) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bayer, Edvin {std. E. Bayer}|first entry]] for this author
+> [!example] See also [[Bayer, Edvin|first entry]] for this author
 
 ### Author
 

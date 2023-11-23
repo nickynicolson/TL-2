@@ -5,7 +5,7 @@ std_form: Died.
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33259341) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Diedicke, Hermann {std. Died.}|first entry]] for this author
+> [!example] See also [[Diedicke, Hermann|first entry]] for this author
 
 ### Author
 

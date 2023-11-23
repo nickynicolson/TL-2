@@ -5,7 +5,7 @@ std_form: Gyeln.
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33258951) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gyelnik, Vilmos Köfaragó {std. Gyeln.}|first entry]] for this author
+> [!example] See also [[Gyelnik, Vilmos Köfaragó|first entry]] for this author
 
 ### Author
 

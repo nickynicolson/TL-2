@@ -5,7 +5,7 @@ std_form: Bonnier
 > [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265515) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bonnier, Gaston Eugène Marie {std. Bonnier}|first entry]] for this author
+> [!example] See also [[Bonnier, Gaston Eugène Marie|first entry]] for this author
 
 ### Author
 

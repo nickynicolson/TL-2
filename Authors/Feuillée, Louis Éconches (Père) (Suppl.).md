@@ -5,7 +5,7 @@ std_form: Feuillée
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33259673) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Feuillée, Louis Éconches {std. Feuillée}|first entry]] for this author
+> [!example] See also [[Feuillée, Louis Éconches|first entry]] for this author
 
 ### Author
 

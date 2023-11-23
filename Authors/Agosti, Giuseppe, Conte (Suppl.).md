@@ -5,7 +5,7 @@ std_form: Agosti
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Agosti, Guiseppe, Conte {std. Agosti}|first entry]] for this author
+> [!example] See also [[Agosti, Guiseppe, Conte|first entry]] for this author
 
 ### Author
 

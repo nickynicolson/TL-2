@@ -5,7 +5,7 @@ std_form: Earle
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33260220) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Earle, Franklin Sumner {std. Earle}|first entry]] for this author
+> [!example] See also [[Earle, Franklin Sumner|first entry]] for this author
 
 ### Author
 

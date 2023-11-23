@@ -5,7 +5,7 @@ std_form: Borza
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33265561) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Borza, Alexandru {std. Borza}|first entry]] for this author
+> [!example] See also [[Borza, Alexandru|first entry]] for this author
 
 ### Author
 

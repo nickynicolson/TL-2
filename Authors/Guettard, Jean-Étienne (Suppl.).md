@@ -5,7 +5,7 @@ std_form: Guett.
 > [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33258920) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Guettard, Jean Étienne {std. Guett.}|first entry]] for this author
+> [!example] See also [[Guettard, Jean Étienne|first entry]] for this author
 
 ### Author
 

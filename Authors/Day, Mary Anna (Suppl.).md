@@ -5,7 +5,7 @@ std_form: Day
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33259162) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Day, Mary Anna {std. Day}|first entry]] for this author
+> [!example] See also [[Day, Mary Anna|first entry]] for this author
 
 ### Author
 

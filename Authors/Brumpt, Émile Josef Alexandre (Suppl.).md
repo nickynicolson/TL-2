@@ -5,7 +5,7 @@ std_form: Brumpt
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33266464) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brumpt, Émile Josef Alexandre {std. Brumpt}|first entry]] for this author
+> [!example] See also [[Brumpt, Émile Josef Alexandre|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Cardot
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33266708) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cardot, Jules {std. Cardot}|first entry]] for this author
+> [!example] See also [[Cardot, Jules|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bang
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33265038) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bang, Miguel {std. Bang}|first entry]] for this author
+> [!example] See also [[Bang, Miguel|first entry]] for this author
 
 ### Author
 

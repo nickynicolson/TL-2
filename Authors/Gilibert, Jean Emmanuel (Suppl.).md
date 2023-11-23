@@ -5,7 +5,7 @@ std_form: Gilib.
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33258691) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gilibert, Jean Emmanuel {std. Gilib.}|first entry]] for this author
+> [!example] See also [[Gilibert, Jean Emmanuel|first entry]] for this author
 
 ### Author
 

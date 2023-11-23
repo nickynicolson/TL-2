@@ -5,7 +5,7 @@ std_form: Arth.
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33264900) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arthur, Joseph Charles {std. Arth.}|first entry]] for this author
+> [!example] See also [[Arthur, Joseph Charles|first entry]] for this author
 
 ### Author
 

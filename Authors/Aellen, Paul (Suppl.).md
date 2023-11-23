@@ -5,7 +5,7 @@ std_form: Aellen
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33264721) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Aellen, Paul {std. Aellen}|first entry]] for this author
+> [!example] See also [[Aellen, Paul|first entry]] for this author
 
 ### Author
 

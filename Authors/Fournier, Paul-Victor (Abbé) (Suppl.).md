@@ -5,7 +5,7 @@ std_form: P.Fourn.
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33259865) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fournier, Paul Victor {std. P. Fourn.}|first entry]] for this author
+> [!example] See also [[Fournier, Paul Victor|first entry]] for this author
 
 ### Author
 

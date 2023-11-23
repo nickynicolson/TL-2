@@ -5,7 +5,7 @@ std_form: Boisd.
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33265475) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boisduval, Jean Baptiste Alphonse Déchauffour(e) de {std. Boisd.}|first entry]] for this author
+> [!example] See also [[Boisduval, Jean Baptiste Alphonse Déchauffour(e) de|first entry]] for this author
 
 ### Author
 

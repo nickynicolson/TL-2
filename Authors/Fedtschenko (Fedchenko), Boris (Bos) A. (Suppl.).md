@@ -5,7 +5,7 @@ std_form: B.Fedtsch.
 > [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33259589) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fedchenko (Fedtschenko), Boris Alexsevič {std. B. Fedtsch.}|first entry]] for this author
+> [!example] See also [[Fedchenko (Fedtschenko), Boris Alexsevič|first entry]] for this author
 
 ### Author
 

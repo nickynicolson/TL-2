@@ -5,7 +5,7 @@ std_form: Gaut.
 > [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33258631) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gautier, Marie Clément Gaston {std. Gaut.}|first entry]] for this author
+> [!example] See also [[Gautier, Marie Clément Gaston|first entry]] for this author
 
 ### Author
 

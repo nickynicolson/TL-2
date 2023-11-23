@@ -5,7 +5,7 @@ std_form: Berl.
 > [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33265298) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Berlese, Augusto Napoleone {std. Berl.}|first entry]] for this author
+> [!example] See also [[Berlese, Augusto Napoleone|first entry]] for this author
 
 ### Author
 

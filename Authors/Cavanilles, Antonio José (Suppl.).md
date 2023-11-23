@@ -5,7 +5,7 @@ std_form: Cav.
 > [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33266773) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cavanilles, Antonio José {std. Cav.}|first entry]] for this author
+> [!example] See also [[Cavanilles, Antonio José|first entry]] for this author
 
 ### Author
 

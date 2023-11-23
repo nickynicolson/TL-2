@@ -5,7 +5,7 @@ std_form: Fedde
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33259584) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fedde, Friedrich Karl Georg {std. Fedde}|first entry]] for this author
+> [!example] See also [[Fedde, Friedrich Karl Georg|first entry]] for this author
 
 ### Author
 

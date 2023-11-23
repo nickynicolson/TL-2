@@ -5,7 +5,7 @@ std_form: P.Crouan
 > [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33266157) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Crouan, Pierre Louis {std. P. Crouan}|first entry]] for this author
+> [!example] See also [[Crouan, Pierre Louis|first entry]] for this author
 
 ### Author
 

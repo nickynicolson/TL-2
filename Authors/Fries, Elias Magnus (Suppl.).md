@@ -5,7 +5,7 @@ std_form: Fr.
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33258510) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fries, Elias Magnus {std. Fr.}|first entry]] for this author
+> [!example] See also [[Fries, Elias Magnus|first entry]] for this author
 
 ### Author
 

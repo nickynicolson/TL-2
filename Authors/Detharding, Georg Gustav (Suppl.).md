@@ -5,7 +5,7 @@ std_form: Dethard.
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33259282) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Detharding, Georg Gustav {std. Dethard.}|first entry]] for this author
+> [!example] See also [[Detharding, Georg Gustav|first entry]] for this author
 
 ### Author
 

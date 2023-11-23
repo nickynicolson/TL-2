@@ -5,7 +5,7 @@ std_form: Coincy
 > [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33265936) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Coincy, Auguste Henri Cornu de la Fontaine de {std. Coincy}|first entry]] for this author
+> [!example] See also [[Coincy, Auguste Henri Cornu de la Fontaine de|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bojer
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33265484) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bojer, Wenceslas (Wenzel) {std. Bojer}|first entry]] for this author
+> [!example] See also [[Bojer, Wenceslas (Wenzel)|first entry]] for this author
 
 ### Author
 

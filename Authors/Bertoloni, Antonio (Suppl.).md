@@ -5,7 +5,7 @@ std_form: Bertol.
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33265320) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bertoloni, Antonio {std. Bertol.}|first entry]] for this author
+> [!example] See also [[Bertoloni, Antonio|first entry]] for this author
 
 ### Author
 

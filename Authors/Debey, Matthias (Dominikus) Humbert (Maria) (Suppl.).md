@@ -5,7 +5,7 @@ std_form: Debey
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33259175) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Debey, Matthias Dominikus Hubert Maria {std. Debey}|first entry]] for this author
+> [!example] See also [[Debey, Matthias Dominikus Hubert Maria|first entry]] for this author
 
 ### Author
 

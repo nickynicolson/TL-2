@@ -5,7 +5,7 @@ std_form: Durando
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33260177) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Durando, Gaetano Leone {std. Durando}|first entry]] for this author
+> [!example] See also [[Durando, Gaetano Leone|first entry]] for this author
 
 ### Author
 

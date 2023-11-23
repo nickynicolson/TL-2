@@ -5,7 +5,7 @@ std_form: Farw.
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33259556) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Farwell, Oliver Atkins {std. Farw.}|first entry]] for this author
+> [!example] See also [[Farwell, Oliver Atkins|first entry]] for this author
 
 ### Author
 

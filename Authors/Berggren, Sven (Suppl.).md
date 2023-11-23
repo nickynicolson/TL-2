@@ -5,7 +5,7 @@ std_form: Berggr.
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33265288) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Berggren, Sven {std. Berggr.}|first entry]] for this author
+> [!example] See also [[Berggren, Sven|first entry]] for this author
 
 ### Author
 

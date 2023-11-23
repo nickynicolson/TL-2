@@ -5,7 +5,7 @@ std_form: Forssk.
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33259827) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Forsskål, Pehr (Peter) {std. Forssk.}|first entry]] for this author
+> [!example] See also [[Forsskål, Pehr (Peter)|first entry]] for this author
 
 ### Author
 

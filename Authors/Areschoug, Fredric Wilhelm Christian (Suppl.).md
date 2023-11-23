@@ -5,7 +5,7 @@ std_form: F.Areschoug
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33264882) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Areschoug, Fredric Wilhelm Christian {std. F. Areschoug}|first entry]] for this author
+> [!example] See also [[Areschoug, Fredric Wilhelm Christian|first entry]] for this author
 
 ### Author
 

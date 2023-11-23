@@ -5,7 +5,7 @@ std_form: Brade
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33266310) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brade, Alexander Curt {std. Brade}|first entry]] for this author
+> [!example] See also [[Brade, Alexander Curt|first entry]] for this author
 
 ### Author
 

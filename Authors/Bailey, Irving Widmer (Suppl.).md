@@ -5,7 +5,7 @@ std_form: I.W.Bailey
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33264989) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bailey, Irving Widmer {std. I.W. Bailey}|first entry]] for this author
+> [!example] See also [[Bailey, Irving Widmer|first entry]] for this author
 
 ### Author
 

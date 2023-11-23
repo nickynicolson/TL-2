@@ -5,7 +5,7 @@ std_form: Backeb.
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33264964) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Backeberg, Curt {std. Backeb.}|first entry]] for this author
+> [!example] See also [[Backeberg, Curt|first entry]] for this author
 
 ### Author
 

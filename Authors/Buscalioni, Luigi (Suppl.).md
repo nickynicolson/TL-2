@@ -5,7 +5,7 @@ std_form: Buscal.
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33266581) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buscalioni, Luigi {std. Buscal.}|first entry]] for this author
+> [!example] See also [[Buscalioni, Luigi|first entry]] for this author
 
 ### Author
 

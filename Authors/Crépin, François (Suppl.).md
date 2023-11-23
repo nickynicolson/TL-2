@@ -5,7 +5,7 @@ std_form: Crép.
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266130) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Crépin, François {std. Crép.}|first entry]] for this author
+> [!example] See also [[Crépin, François|first entry]] for this author
 
 ### Author
 

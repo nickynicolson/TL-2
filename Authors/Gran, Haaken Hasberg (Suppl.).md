@@ -5,7 +5,7 @@ std_form: Gran
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33258805) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gran, Haaken Hasberg {std. Gran}|first entry]] for this author
+> [!example] See also [[Gran, Haaken Hasberg|first entry]] for this author
 
 ### Author
 

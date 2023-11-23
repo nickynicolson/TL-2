@@ -5,7 +5,7 @@ std_form: Briggs
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33266383) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Briggs, Thomas Richard Archer {std. Briggs}|first entry]] for this author
+> [!example] See also [[Briggs, Thomas Richard Archer|first entry]] for this author
 
 ### Author
 

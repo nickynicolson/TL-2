@@ -5,7 +5,7 @@ std_form: Cambess.
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33266627) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cambessèdes, Jacques {std. Cambess.}|first entry]] for this author
+> [!example] See also [[Cambessèdes, Jacques|first entry]] for this author
 
 ### Author
 

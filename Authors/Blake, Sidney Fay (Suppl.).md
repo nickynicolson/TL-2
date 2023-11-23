@@ -5,7 +5,7 @@ std_form: S.F.Blake
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33265387) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Blake, Sidney Fay {std. S.F. Blake}|first entry]] for this author
+> [!example] See also [[Blake, Sidney Fay|first entry]] for this author
 
 ### Author
 

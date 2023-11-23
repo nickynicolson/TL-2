@@ -5,7 +5,7 @@ std_form: Fée
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33259608) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fée, Antoine Laurent Apollinaire {std. Fée}|first entry]] for this author
+> [!example] See also [[Fée, Antoine Laurent Apollinaire|first entry]] for this author
 
 ### Author
 

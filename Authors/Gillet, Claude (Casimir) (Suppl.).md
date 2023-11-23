@@ -5,7 +5,7 @@ std_form: Gill.
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33258697) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gillet, Claude Casimir {std. Gill.}|first entry]] for this author
+> [!example] See also [[Gillet, Claude Casimir|first entry]] for this author
 
 ### Author
 

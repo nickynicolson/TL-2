@@ -5,7 +5,7 @@ std_form: Baster
 > [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265095) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baster, Job {std. Baster}|first entry]] for this author
+> [!example] See also [[Baster, Job|first entry]] for this author
 
 ### Author
 

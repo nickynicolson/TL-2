@@ -5,7 +5,7 @@ std_form: W.Barton
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33265078) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Barton, William Paul Crillon {std. W. Barton}|first entry]] for this author
+> [!example] See also [[Barton, William Paul Crillon|first entry]] for this author
 
 ### Author
 

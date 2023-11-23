@@ -5,7 +5,7 @@ std_form: Abeleven
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33264769) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Abeleven, Theodoor Hendrik Arnoldus Jacobus {std. Abeleven}|first entry]] for this author
+> [!example] See also [[Abeleven, Theodoor Hendrik Arnoldus Jacobus|first entry]] for this author
 
 ### Author
 

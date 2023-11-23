@@ -5,7 +5,7 @@ std_form: Costantin
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266073) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Costantin, Julien Noël {std. Costantin}|first entry]] for this author
+> [!example] See also [[Costantin, Julien Noël|first entry]] for this author
 
 ### Author
 

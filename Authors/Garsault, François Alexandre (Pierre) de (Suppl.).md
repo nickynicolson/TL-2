@@ -5,7 +5,7 @@ std_form: Garsault
 > [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33258609) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Garsault, François Alexandre Pierre de {std. Garsault}|first entry]] for this author
+> [!example] See also [[Garsault, François Alexandre Pierre de|first entry]] for this author
 
 ### Author
 

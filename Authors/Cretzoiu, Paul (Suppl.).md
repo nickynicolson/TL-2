@@ -5,7 +5,7 @@ std_form: Cretz.
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33266142) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cretzoiu, Paul {std. Cretz.}|first entry]] for this author
+> [!example] See also [[Cretzoiu, Paul|first entry]] for this author
 
 ### Author
 

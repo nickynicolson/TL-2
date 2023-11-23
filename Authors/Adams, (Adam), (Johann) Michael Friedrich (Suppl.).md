@@ -5,7 +5,7 @@ std_form: M.F.Adams
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33264752) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Adams, Michael Friedrich {std. M.F. Adams}|first entry]] for this author
+> [!example] See also [[Adams, Michael Friedrich|first entry]] for this author
 
 ### Author
 

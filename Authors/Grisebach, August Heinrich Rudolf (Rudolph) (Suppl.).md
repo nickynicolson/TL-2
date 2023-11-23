@@ -5,7 +5,7 @@ std_form: Griseb.
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33258877) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Grisebach, August Heinrich Rudolph {std. Griseb.}|first entry]] for this author
+> [!example] See also [[Grisebach, August Heinrich Rudolph|first entry]] for this author
 
 ### Author
 

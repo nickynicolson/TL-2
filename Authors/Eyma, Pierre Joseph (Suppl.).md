@@ -5,7 +5,7 @@ std_form: Eyma
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33260438) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Eyma, Pierre Joseph {std. Eyma}|first entry]] for this author
+> [!example] See also [[Eyma, Pierre Joseph|first entry]] for this author
 
 ### Author
 

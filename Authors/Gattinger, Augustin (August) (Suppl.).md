@@ -5,7 +5,7 @@ std_form: Gatt.
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33258623) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gattinger, Augustin {std. Gatt.}|first entry]] for this author
+> [!example] See also [[Gattinger, Augustin|first entry]] for this author
 
 ### Author
 

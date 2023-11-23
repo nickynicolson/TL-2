@@ -5,7 +5,7 @@ std_form: Ahles
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ahles, Wilhelm Elias von {std. Ahles}|first entry]] for this author
+> [!example] See also [[Ahles, Wilhelm Elias von|first entry]] for this author
 
 ### Author
 

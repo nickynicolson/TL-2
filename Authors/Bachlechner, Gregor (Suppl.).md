@@ -5,7 +5,7 @@ std_form: Bachlechner
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33264958) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bachlechner, Gregor {std. Bachlechner}|first entry]] for this author
+> [!example] See also [[Bachlechner, Gregor|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: I.B.Balf.
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265023) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Balfour, (Sir) Isaac Bayley {std. I.B. Balf.}|first entry]] for this author
+> [!example] See also [[Balfour, (Sir) Isaac Bayley|first entry]] for this author
 
 ### Author
 

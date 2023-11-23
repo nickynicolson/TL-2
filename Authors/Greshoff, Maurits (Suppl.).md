@@ -5,7 +5,7 @@ std_form: Greshoff
 > [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33258852) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Greshoff, Maurits {std. Greshoff}|first entry]] for this author
+> [!example] See also [[Greshoff, Maurits|first entry]] for this author
 
 ### Author
 

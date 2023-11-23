@@ -5,7 +5,7 @@ std_form: Aust.
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33264940) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Austin, Coe Finch {std. Aust.}|first entry]] for this author
+> [!example] See also [[Austin, Coe Finch|first entry]] for this author
 
 ### Author
 

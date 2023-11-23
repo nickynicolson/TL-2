@@ -5,7 +5,7 @@ std_form: W.Fitzg.
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33259734) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fitzgerald, William Vincent {std. W. Fitzg.}|first entry]] for this author
+> [!example] See also [[Fitzgerald, William Vincent|first entry]] for this author
 
 ### Author
 

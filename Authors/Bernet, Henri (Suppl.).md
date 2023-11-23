@@ -5,7 +5,7 @@ std_form: Bernet
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33265306) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bernet, Henri {std. Bernet}|first entry]] for this author
+> [!example] See also [[Bernet, Henri|first entry]] for this author
 
 ### Author
 

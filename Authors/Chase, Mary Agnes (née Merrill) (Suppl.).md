@@ -5,7 +5,7 @@ std_form: Chase
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265734) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chase, Mary Agnes (née Merrill) {std. Chase}|first entry]] for this author
+> [!example] See also [[Chase, Mary Agnes (née Merrill)|first entry]] for this author
 
 ### Author
 

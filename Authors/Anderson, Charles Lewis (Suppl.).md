@@ -5,7 +5,7 @@ std_form: C.L.Anderson
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33264834) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Anderson, Charles Lewis {std. C.L. Anderson}|first entry]] for this author
+> [!example] See also [[Anderson, Charles Lewis|first entry]] for this author
 
 ### Author
 

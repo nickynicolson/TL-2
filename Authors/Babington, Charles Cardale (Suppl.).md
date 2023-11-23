@@ -5,7 +5,7 @@ std_form: Bab.
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33264953) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Babington, Charles Cardale {std. Bab.}|first entry]] for this author
+> [!example] See also [[Babington, Charles Cardale|first entry]] for this author
 
 ### Author
 

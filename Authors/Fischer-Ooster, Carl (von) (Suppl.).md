@@ -5,7 +5,7 @@ std_form: Fisch.-Oost.
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33259726) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fischer-Ooster, Carl von {std. Fisch.-Oost.}|first entry]] for this author
+> [!example] See also [[Fischer-Ooster, Carl von|first entry]] for this author
 
 ### Author
 

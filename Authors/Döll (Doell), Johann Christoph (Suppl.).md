@@ -5,7 +5,7 @@ std_form: Döll
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33260009) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Döll, Johann Christoph {std. Döll}|first entry]] for this author
+> [!example] See also [[Döll, Johann Christoph|first entry]] for this author
 
 ### Author
 

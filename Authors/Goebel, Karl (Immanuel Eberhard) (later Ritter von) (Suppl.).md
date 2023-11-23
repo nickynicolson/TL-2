@@ -5,7 +5,7 @@ std_form: K.I.Goebel
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33258739) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Goebel, Karl Immanuel Eberhard (later Ritter von) {std. K.I. Goebel}|first entry]] for this author
+> [!example] See also [[Goebel, Karl Immanuel Eberhard (later Ritter von)|first entry]] for this author
 
 ### Author
 

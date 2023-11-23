@@ -5,7 +5,7 @@ std_form: Brand
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33266314) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brand, August {std. Brand}|first entry]] for this author
+> [!example] See also [[Brand, August|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bor
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33265524) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bor, Norman Loftus {std. Bor}|first entry]] for this author
+> [!example] See also [[Bor, Norman Loftus|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: W.Deane
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33259168) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Deane, Walter {std. W. Deane}|first entry]] for this author
+> [!example] See also [[Deane, Walter|first entry]] for this author
 
 ### Author
 

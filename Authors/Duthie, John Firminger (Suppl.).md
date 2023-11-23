@@ -5,7 +5,7 @@ std_form: Duthie
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33260197) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Duthie, John Firminger {std. Duthie}|first entry]] for this author
+> [!example] See also [[Duthie, John Firminger|first entry]] for this author
 
 ### Author
 

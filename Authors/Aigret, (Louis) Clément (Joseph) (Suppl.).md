@@ -5,7 +5,7 @@ std_form: Aigret
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33264741) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Aigret, Louis Clément Joseph {std. Aigret}|first entry]] for this author
+> [!example] See also [[Aigret, Louis Clément Joseph|first entry]] for this author
 
 ### Author
 

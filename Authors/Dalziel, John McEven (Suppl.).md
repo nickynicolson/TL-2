@@ -5,7 +5,7 @@ std_form: Dalziel
 > [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33259080) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dalziel, John McEwen {std. Dalziel}|first entry]] for this author
+> [!example] See also [[Dalziel, John McEwen|first entry]] for this author
 
 ### Author
 

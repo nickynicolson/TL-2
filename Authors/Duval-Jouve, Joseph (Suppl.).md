@@ -5,7 +5,7 @@ std_form: Duval-Jouve
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33260204) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Duval-Jouve (earlier Duval), Joseph {std. Duval-Jouve}|first entry]] for this author
+> [!example] See also [[Duval-Jouve (earlier Duval), Joseph|first entry]] for this author
 
 ### Author
 

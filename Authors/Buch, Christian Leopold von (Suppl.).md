@@ -5,7 +5,7 @@ std_form: Buch
 > [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33266487) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buch, Christian Leopold von, Freiherr von Gelmersdorf etc. {std. Buch}|first entry]] for this author
+> [!example] See also [[Buch, Christian Leopold von, Freiherr von Gelmersdorf etc.|first entry]] for this author
 
 ### Author
 

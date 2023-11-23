@@ -5,7 +5,7 @@ std_form: Gaillard
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33258580) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gaillard, Albert {std. Gaillard}|first entry]] for this author
+> [!example] See also [[Gaillard, Albert|first entry]] for this author
 
 ### Author
 

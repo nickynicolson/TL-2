@@ -5,7 +5,7 @@ std_form: Fünfstück
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33258550) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fünfstück, Leberecht Moritz {std. Fünfstück}|first entry]] for this author
+> [!example] See also [[Fünfstück, Leberecht Moritz|first entry]] for this author
 
 ### Author
 

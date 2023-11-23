@@ -5,7 +5,7 @@ std_form: Beechey
 > [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33265236) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Beechey, Frederick William {std. Beechey}|first entry]] for this author
+> [!example] See also [[Beechey, Frederick William|first entry]] for this author
 
 ### Author
 

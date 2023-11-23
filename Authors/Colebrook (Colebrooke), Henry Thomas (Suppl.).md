@@ -5,7 +5,7 @@ std_form: Colebr.
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Colebrooke, Henry Thomas {std. Colebr.}|first entry]] for this author
+> [!example] See also [[Colebrooke, Henry Thomas|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: G.Cunn.
 > [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33266183) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cunningham, Gordon Herriot {std. G. Cunn.}|first entry]] for this author
+> [!example] See also [[Cunningham, Gordon Herriot|first entry]] for this author
 
 ### Author
 

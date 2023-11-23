@@ -5,7 +5,7 @@ std_form: Davis
 > [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33259152) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Davis, John Jefferson {std. Davis}|first entry]] for this author
+> [!example] See also [[Davis, John Jefferson|first entry]] for this author
 
 ### Author
 

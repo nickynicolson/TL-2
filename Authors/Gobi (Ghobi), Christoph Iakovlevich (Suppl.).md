@@ -5,7 +5,7 @@ std_form: Gobi
 > [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33258725) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gobi, Christophos Jacoblewitsch (Ghobi) {std. Gobi}|first entry]] for this author
+> [!example] See also [[Gobi, Christophos Jacoblewitsch (Ghobi)|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Györffy
 > [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33258956) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Györffy, István {std. Györffy}|first entry]] for this author
+> [!example] See also [[Györffy, István|first entry]] for this author
 
 ### Author
 

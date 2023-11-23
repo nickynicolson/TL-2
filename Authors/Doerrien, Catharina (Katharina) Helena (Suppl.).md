@@ -5,7 +5,7 @@ std_form: Doerr.
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33260015) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Doerrien, Catherina Helena {std. Doerr.}|first entry]] for this author
+> [!example] See also [[Doerrien, Catherina Helena|first entry]] for this author
 
 ### Author
 

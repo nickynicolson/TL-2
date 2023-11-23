@@ -5,7 +5,7 @@ std_form: Afzel.
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33264722) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Afzelius, Adam {std. Afzel.}|first entry]] for this author
+> [!example] See also [[Afzelius, Adam|first entry]] for this author
 
 ### Author
 

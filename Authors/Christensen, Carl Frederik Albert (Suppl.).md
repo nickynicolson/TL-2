@@ -5,7 +5,7 @@ std_form: C.Chr.
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Christensen, Carl Frederik Albert {std. C. Chr.}|first entry]] for this author
+> [!example] See also [[Christensen, Carl Frederik Albert|first entry]] for this author
 
 ### Author
 

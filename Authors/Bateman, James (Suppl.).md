@@ -5,7 +5,7 @@ std_form: Bateman
 > [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33265100) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bateman, James {std. Bateman}|first entry]] for this author
+> [!example] See also [[Bateman, James|first entry]] for this author
 
 ### Author
 

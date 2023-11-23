@@ -5,7 +5,7 @@ std_form: Cavill.
 > [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33266783) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cavillier, François Georges {std. Cavill.}|first entry]] for this author
+> [!example] See also [[Cavillier, François Georges|first entry]] for this author
 
 ### Author
 

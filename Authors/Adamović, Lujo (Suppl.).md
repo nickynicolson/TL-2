@@ -5,7 +5,7 @@ std_form: Adamović
 > [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33264757) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Adamović, Lujo {std. Adamović}|first entry]] for this author
+> [!example] See also [[Adamović, Lujo|first entry]] for this author
 
 ### Author
 

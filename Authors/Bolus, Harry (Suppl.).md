@@ -5,7 +5,7 @@ std_form: Bolus
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33265494) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bolus, Harry {std. Bolus}|first entry]] for this author
+> [!example] See also [[Bolus, Harry|first entry]] for this author
 
 ### Author
 

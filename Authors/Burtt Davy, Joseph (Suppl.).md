@@ -5,7 +5,7 @@ std_form: Burtt Davy
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33266578) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Davy, Joseph Burtt {std. Burtt Davy}|first entry]] for this author
+> [!example] See also [[Davy, Joseph Burtt|first entry]] for this author
 
 ### Author
 

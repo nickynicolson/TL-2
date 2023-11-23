@@ -5,7 +5,7 @@ std_form: Croz.
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33266160) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Crozals, André de {std. Croz.}|first entry]] for this author
+> [!example] See also [[Crozals, André de|first entry]] for this author
 
 ### Author
 

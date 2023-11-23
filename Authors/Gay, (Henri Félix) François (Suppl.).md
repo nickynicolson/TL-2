@@ -5,7 +5,7 @@ std_form: F.Gay
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33258633) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gay, François {std. F. Gay}|first entry]] for this author
+> [!example] See also [[Gay, François|first entry]] for this author
 
 ### Author
 

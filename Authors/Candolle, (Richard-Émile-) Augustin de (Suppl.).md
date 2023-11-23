@@ -5,7 +5,7 @@ std_form: Aug.DC.
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33266696) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Candolle, Richard Émile Augustin de {std. Aug. DC.}|first entry]] for this author
+> [!example] See also [[Candolle, Richard Émile Augustin de|first entry]] for this author
 
 ### Author
 

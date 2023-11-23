@@ -5,7 +5,7 @@ std_form: Castagne
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266760) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Castagne, Jean Louis Martin {std. Castagne}|first entry]] for this author
+> [!example] See also [[Castagne, Jean Louis Martin|first entry]] for this author
 
 ### Author
 

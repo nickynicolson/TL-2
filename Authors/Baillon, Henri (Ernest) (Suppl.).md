@@ -5,7 +5,7 @@ std_form: Baill.
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33264997) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baillon, Henri Ernest {std. Baill.}|first entry]] for this author
+> [!example] See also [[Baillon, Henri Ernest|first entry]] for this author
 
 ### Author
 

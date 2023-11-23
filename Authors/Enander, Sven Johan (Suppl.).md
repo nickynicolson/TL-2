@@ -5,7 +5,7 @@ std_form: Enander
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33260325) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Enander, Sven Johan {std. Enander}|first entry]] for this author
+> [!example] See also [[Enander, Sven Johan|first entry]] for this author
 
 ### Author
 

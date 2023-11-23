@@ -5,7 +5,7 @@ std_form: Arechav.
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33264879) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arechavaleta y Balpardo, José {std. Arechav.}|first entry]] for this author
+> [!example] See also [[Arechavaleta y Balpardo, José|first entry]] for this author
 
 ### Author
 

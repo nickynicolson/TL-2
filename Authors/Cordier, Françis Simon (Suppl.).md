@@ -5,7 +5,7 @@ std_form: Cordier
 > [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33266036) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cordier, François Simon {std. Cordier}|first entry]] for this author
+> [!example] See also [[Cordier, François Simon|first entry]] for this author
 
 ### Author
 

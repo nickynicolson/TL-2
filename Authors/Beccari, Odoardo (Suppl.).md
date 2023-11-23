@@ -5,7 +5,7 @@ std_form: Becc.
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33265207) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Beccari, Odoardo {std. Becc.}|first entry]] for this author
+> [!example] See also [[Beccari, Odoardo|first entry]] for this author
 
 ### Author
 

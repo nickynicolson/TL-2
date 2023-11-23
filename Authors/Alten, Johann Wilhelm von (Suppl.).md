@@ -5,7 +5,7 @@ std_form: J.Alten
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33264819) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Alten, Johann Wilhelm von {std. J. Alten}|first entry]] for this author
+> [!example] See also [[Alten, Johann Wilhelm von|first entry]] for this author
 
 ### Author
 

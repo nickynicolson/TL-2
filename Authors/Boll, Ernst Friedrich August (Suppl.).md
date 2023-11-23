@@ -5,7 +5,7 @@ std_form: Boll
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33265488) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boll, Ernst Friedrich August {std. Boll}|first entry]] for this author
+> [!example] See also [[Boll, Ernst Friedrich August|first entry]] for this author
 
 ### Author
 

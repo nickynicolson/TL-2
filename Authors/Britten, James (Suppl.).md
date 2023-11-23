@@ -5,7 +5,7 @@ std_form: Britten
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33266397) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Britten, James {std. Britten}|first entry]] for this author
+> [!example] See also [[Britten, James|first entry]] for this author
 
 ### Author
 

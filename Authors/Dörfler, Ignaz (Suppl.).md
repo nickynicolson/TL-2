@@ -5,7 +5,7 @@ std_form: Dörfl.
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33260011) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dörfler, Ignaz {std. Dörfl.}|first entry]] for this author
+> [!example] See also [[Dörfler, Ignaz|first entry]] for this author
 
 ### Author
 

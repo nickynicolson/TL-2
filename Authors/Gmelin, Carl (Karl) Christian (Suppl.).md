@@ -5,7 +5,7 @@ std_form: C.C.Gmelin
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33258724) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gmelin, Carl (Karl) Christian {std. C.C. Gmelin}|first entry]] for this author
+> [!example] See also [[Gmelin, Carl (Karl) Christian|first entry]] for this author
 
 ### Author
 

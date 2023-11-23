@@ -5,7 +5,7 @@ std_form: T.Anderson
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33264837) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Anderson, Thomas {std. T. Anderson}|first entry]] for this author
+> [!example] See also [[Anderson, Thomas|first entry]] for this author
 
 ### Author
 

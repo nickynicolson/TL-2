@@ -5,7 +5,7 @@ std_form: D.C.Eaton
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33260230) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Eaton, Daniel Cady {std. D.C. Eaton}|first entry]] for this author
+> [!example] See also [[Eaton, Daniel Cady|first entry]] for this author
 
 ### Author
 

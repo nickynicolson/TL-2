@@ -5,7 +5,7 @@ std_form: O.Berg
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33265281) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Berg, Otto Carl {std. O. Berg}|first entry]] for this author
+> [!example] See also [[Berg, Otto Carl|first entry]] for this author
 
 ### Author
 

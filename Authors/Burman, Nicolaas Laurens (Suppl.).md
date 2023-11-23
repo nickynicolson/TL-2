@@ -5,7 +5,7 @@ std_form: Burm.f.
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33266560) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Burman, Nicolaas Laurens {std. Burm. f.}|first entry]] for this author
+> [!example] See also [[Burman, Nicolaas Laurens|first entry]] for this author
 
 ### Author
 

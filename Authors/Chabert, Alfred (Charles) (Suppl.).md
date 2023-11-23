@@ -5,7 +5,7 @@ std_form: Chabert
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265707) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chabert, Alfred {std. Chabert}|first entry]] for this author
+> [!example] See also [[Chabert, Alfred|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bondam
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bondam, Rutger {std. Bondam}|first entry]] for this author
+> [!example] See also [[Bondam, Rutger|first entry]] for this author
 
 ### Author
 

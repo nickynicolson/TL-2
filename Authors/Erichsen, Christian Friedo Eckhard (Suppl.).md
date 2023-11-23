@@ -5,7 +5,7 @@ std_form: Erichsen
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33260374) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Erichsen, Christian Friedo Eckhard {std. Erichsen}|first entry]] for this author
+> [!example] See also [[Erichsen, Christian Friedo Eckhard|first entry]] for this author
 
 ### Author
 

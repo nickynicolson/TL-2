@@ -5,7 +5,7 @@ std_form: Drake
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33260074) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Drake del Castillo, Emmanuel {std. Drake}|first entry]] for this author
+> [!example] See also [[Drake del Castillo, Emmanuel|first entry]] for this author
 
 ### Author
 

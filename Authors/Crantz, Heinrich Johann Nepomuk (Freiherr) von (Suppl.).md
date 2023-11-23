@@ -5,7 +5,7 @@ std_form: Crantz
 > [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33266126) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Crantz, Heinrich Johann Nepomuk (Freiherr) von {std. Crantz}|first entry]] for this author
+> [!example] See also [[Crantz, Heinrich Johann Nepomuk (Freiherr) von|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Béhéré
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265246) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Béhéré, Jean Baptiste Joseph {std. Béhéré}|first entry]] for this author
+> [!example] See also [[Béhéré, Jean Baptiste Joseph|first entry]] for this author
 
 ### Author
 

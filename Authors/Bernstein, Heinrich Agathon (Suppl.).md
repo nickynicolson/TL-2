@@ -5,7 +5,7 @@ std_form: Bernstein
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265308) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bernstein, Heinrich Agathon {std. Bernstein}|first entry]] for this author
+> [!example] See also [[Bernstein, Heinrich Agathon|first entry]] for this author
 
 ### Author
 

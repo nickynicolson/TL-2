@@ -5,7 +5,7 @@ std_form: Alston
 > [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33264814) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Alston, Arthur Hugh Garfit {std. Alston}|first entry]] for this author
+> [!example] See also [[Alston, Arthur Hugh Garfit|first entry]] for this author
 
 ### Author
 

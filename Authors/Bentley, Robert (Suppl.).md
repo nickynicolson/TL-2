@@ -5,7 +5,7 @@ std_form: Bentley
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33265277) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bentley, Robert {std. Bentley}|first entry]] for this author
+> [!example] See also [[Bentley, Robert|first entry]] for this author
 
 ### Author
 

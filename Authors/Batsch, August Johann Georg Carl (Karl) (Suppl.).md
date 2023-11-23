@@ -5,7 +5,7 @@ std_form: Batsch
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265103) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Batsch, August Johann Georg Carl {std. Batsch}|first entry]] for this author
+> [!example] See also [[Batsch, August Johann Georg Carl|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Aspegren
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33264924) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Aspegren, Georg Casten {std. Aspegren}|first entry]] for this author
+> [!example] See also [[Aspegren, Georg Casten|first entry]] for this author
 
 ### Author
 

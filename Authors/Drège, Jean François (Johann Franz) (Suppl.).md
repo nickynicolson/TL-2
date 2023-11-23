@@ -5,7 +5,7 @@ std_form: Drège
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33260079) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Drège, Jean François (Johann Franz) {std. Drège}|first entry]] for this author
+> [!example] See also [[Drège, Jean François (Johann Franz)|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Brandegee
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33266317) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brandegee, Townsend Stith {std. Brandegee}|first entry]] for this author
+> [!example] See also [[Brandegee, Townsend Stith|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: A.Duncan
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33260157) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Duncan, Andrew {std. A. Duncan}|first entry]] for this author
+> [!example] See also [[Duncan, Andrew|first entry]] for this author
 
 ### Author
 

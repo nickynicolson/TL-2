@@ -5,7 +5,7 @@ std_form: Arnell
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33264888) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arnell, Hampus Wilhelm {std. Arnell}|first entry]] for this author
+> [!example] See also [[Arnell, Hampus Wilhelm|first entry]] for this author
 
 ### Author
 

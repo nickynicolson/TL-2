@@ -5,7 +5,7 @@ std_form: A.Camus
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Camus, Aimée Antoinette {std. A. Camus}|first entry]] for this author
+> [!example] See also [[Camus, Aimée Antoinette|first entry]] for this author
 
 ### Author
 

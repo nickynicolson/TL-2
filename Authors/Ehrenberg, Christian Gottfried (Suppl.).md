@@ -5,7 +5,7 @@ std_form: Ehrenb.
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33260259) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ehrenberg, Christian Gottfried {std. Ehrenb.}|first entry]] for this author
+> [!example] See also [[Ehrenberg, Christian Gottfried|first entry]] for this author
 
 ### Author
 

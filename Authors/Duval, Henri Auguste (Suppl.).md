@@ -5,7 +5,7 @@ std_form: Duval
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Duval, Henri Auguste {std. Duval}|first entry]] for this author
+> [!example] See also [[Duval, Henri Auguste|first entry]] for this author
 
 ### Author
 

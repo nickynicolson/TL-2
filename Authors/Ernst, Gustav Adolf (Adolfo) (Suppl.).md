@@ -5,7 +5,7 @@ std_form: Ernst
 > [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33260394) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ernst, Adolf (Adolfo) {std. Ernst}|first entry]] for this author
+> [!example] See also [[Ernst, Adolf (Adolfo)|first entry]] for this author
 
 ### Author
 

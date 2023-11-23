@@ -5,7 +5,7 @@ std_form: Finet
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33259687) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Finet, Eugène Achille {std. Finet}|first entry]] for this author
+> [!example] See also [[Finet, Eugène Achille|first entry]] for this author
 
 ### Author
 

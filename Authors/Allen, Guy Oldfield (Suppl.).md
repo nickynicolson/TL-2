@@ -5,7 +5,7 @@ std_form: G.O.Allen
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33264799) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Allen, Guy Oldfield {std. G.O. Allen}|first entry]] for this author
+> [!example] See also [[Allen, Guy Oldfield|first entry]] for this author
 
 ### Author
 

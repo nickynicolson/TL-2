@@ -5,7 +5,7 @@ std_form: Cornu
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33266042) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cornu, Marie Maxime {std. Cornu}|first entry]] for this author
+> [!example] See also [[Cornu, Marie Maxime|first entry]] for this author
 
 ### Author
 

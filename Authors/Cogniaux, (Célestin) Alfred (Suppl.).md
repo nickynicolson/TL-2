@@ -5,7 +5,7 @@ std_form: Cogn.
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33265925) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cogniaux, Célestin Alfred {std. Cogn.}|first entry]] for this author
+> [!example] See also [[Cogniaux, Célestin Alfred|first entry]] for this author
 
 ### Author
 

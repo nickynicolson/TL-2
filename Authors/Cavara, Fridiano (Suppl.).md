@@ -5,7 +5,7 @@ std_form: Cavara
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266775) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cavara, Fridiano {std. Cavara}|first entry]] for this author
+> [!example] See also [[Cavara, Fridiano|first entry]] for this author
 
 ### Author
 

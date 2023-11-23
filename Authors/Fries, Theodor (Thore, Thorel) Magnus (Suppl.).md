@@ -5,7 +5,7 @@ std_form: Th.Fr.
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33258471) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fries, Theodor (Thore) Magnus {std. Th. Fr.}|first entry]] for this author
+> [!example] See also [[Fries, Theodor (Thore) Magnus|first entry]] for this author
 
 ### Author
 

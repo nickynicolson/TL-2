@@ -5,7 +5,7 @@ std_form: K.Ahlner
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33264737) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ahlner, Klas {std. K. Ahlner}|first entry]] for this author
+> [!example] See also [[Ahlner, Klas|first entry]] for this author
 
 ### Author
 

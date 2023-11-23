@@ -5,7 +5,7 @@ std_form: Greenm.
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33258842) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Greenman, Jesse More {std. Greenm.}|first entry]] for this author
+> [!example] See also [[Greenman, Jesse More|first entry]] for this author
 
 ### Author
 

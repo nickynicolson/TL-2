@@ -5,7 +5,7 @@ std_form: E.G.Baker
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265002) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baker, Edmund Gilbert {std. E.G. Baker}|first entry]] for this author
+> [!example] See also [[Baker, Edmund Gilbert|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Bubani
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33266486) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bubani, Pietro {std. Bubani}|first entry]] for this author
+> [!example] See also [[Bubani, Pietro|first entry]] for this author
 
 ### Author
 

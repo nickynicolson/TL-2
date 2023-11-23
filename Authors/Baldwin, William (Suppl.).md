@@ -5,7 +5,7 @@ std_form: Baldw.
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33265021) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baldwin, William {std. Baldw.}|first entry]] for this author
+> [!example] See also [[Baldwin, William|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: J.M.Black
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33265383) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Black, John McConnell {std. J.M. Black}|first entry]] for this author
+> [!example] See also [[Black, John McConnell|first entry]] for this author
 
 ### Author
 

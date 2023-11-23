@@ -5,7 +5,7 @@ std_form: Eggers
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33260254) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Eggers, Henrik (Heinrich) Franz Alexander Baron von {std. Eggers}|first entry]] for this author
+> [!example] See also [[Eggers, Henrik (Heinrich) Franz Alexander Baron von|first entry]] for this author
 
 ### Author
 

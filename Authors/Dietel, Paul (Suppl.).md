@@ -5,7 +5,7 @@ std_form: Dietel
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259367) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dietel, Paul {std. Dietel}|first entry]] for this author
+> [!example] See also [[Dietel, Paul|first entry]] for this author
 
 ### Author
 

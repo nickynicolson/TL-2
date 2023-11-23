@@ -5,7 +5,7 @@ std_form: Delpino
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33259232) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Delpino, Giacomo Giuseppe Federico {std. Delpino}|first entry]] for this author
+> [!example] See also [[Delpino, Giacomo Giuseppe Federico|first entry]] for this author
 
 ### Author
 

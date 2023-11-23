@@ -5,7 +5,7 @@ std_form: J.M.Coult.
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33266090) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Coulter, John Merle {std. J.M. Coult.}|first entry]] for this author
+> [!example] See also [[Coulter, John Merle|first entry]] for this author
 
 ### Author
 

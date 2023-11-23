@@ -5,7 +5,7 @@ std_form: Flörke
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33259766) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Floerke, Heinrich Gustav {std. Flörke}|first entry]] for this author
+> [!example] See also [[Floerke, Heinrich Gustav|first entry]] for this author
 
 ### Author
 

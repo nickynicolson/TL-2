@@ -5,7 +5,7 @@ std_form: Anderss.
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33264842) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Andersson, Nils Johan {std. Anderss.}|first entry]] for this author
+> [!example] See also [[Andersson, Nils Johan|first entry]] for this author
 
 ### Author
 

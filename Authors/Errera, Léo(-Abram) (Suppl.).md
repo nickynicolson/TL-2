@@ -5,7 +5,7 @@ std_form: Errera
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33260397) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Errera, Leo (-Abram) {std. Errera}|first entry]] for this author
+> [!example] See also [[Errera, Leo (-Abram)|first entry]] for this author
 
 ### Author
 

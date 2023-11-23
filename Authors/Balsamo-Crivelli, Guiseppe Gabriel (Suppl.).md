@@ -5,7 +5,7 @@ std_form: Bals.-Criv.
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265035) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Balsamo-Crivelli, Giuseppe Gabriel {std. Bals.-Criv.}|first entry]] for this author
+> [!example] See also [[Balsamo-Crivelli, Giuseppe Gabriel|first entry]] for this author
 
 ### Author
 

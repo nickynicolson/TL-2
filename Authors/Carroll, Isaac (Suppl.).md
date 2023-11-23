@@ -5,7 +5,7 @@ std_form: Carroll
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Carroll, Isaac {std. Carroll}|first entry]] for this author
+> [!example] See also [[Carroll, Isaac|first entry]] for this author
 
 ### Author
 

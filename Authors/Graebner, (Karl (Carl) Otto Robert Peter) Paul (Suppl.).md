@@ -5,7 +5,7 @@ std_form: Graebn.
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33258798) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Graebner, Karl Otto Robert Peter Paul {std. Graebn.}|first entry]] for this author
+> [!example] See also [[Graebner, Karl Otto Robert Peter Paul|first entry]] for this author
 
 ### Author
 

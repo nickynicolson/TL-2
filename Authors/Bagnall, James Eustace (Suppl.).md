@@ -5,7 +5,7 @@ std_form: Bagn.
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33264979) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bagnall, James Eustace {std. Bagn.}|first entry]] for this author
+> [!example] See also [[Bagnall, James Eustace|first entry]] for this author
 
 ### Author
 

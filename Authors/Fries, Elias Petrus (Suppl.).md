@@ -5,7 +5,7 @@ std_form: E.P.Fr.
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33258505) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fries, Elias Petrus {std. E.P. Fr.}|first entry]] for this author
+> [!example] See also [[Fries, Elias Petrus|first entry]] for this author
 
 ### Author
 

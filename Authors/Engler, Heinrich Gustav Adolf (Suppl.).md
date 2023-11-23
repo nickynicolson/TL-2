@@ -5,7 +5,7 @@ std_form: Engl.
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33260338) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Engler, Heinrich Gustav Adolf {std. Engl.}|first entry]] for this author
+> [!example] See also [[Engler, Heinrich Gustav Adolf|first entry]] for this author
 
 ### Author
 

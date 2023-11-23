@@ -5,7 +5,7 @@ std_form: Bisby
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33265371) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bisby, Guy Richard {std. Bisby}|first entry]] for this author
+> [!example] See also [[Bisby, Guy Richard|first entry]] for this author
 
 ### Author
 

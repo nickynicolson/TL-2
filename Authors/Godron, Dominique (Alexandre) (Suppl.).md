@@ -5,7 +5,7 @@ std_form: Godr.
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33258732) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Godron, Dominique Alexandre {std. Godr.}|first entry]] for this author
+> [!example] See also [[Godron, Dominique Alexandre|first entry]] for this author
 
 ### Author
 

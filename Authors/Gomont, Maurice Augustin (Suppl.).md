@@ -5,7 +5,7 @@ std_form: Gomont
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33258771) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gomont, Maurice Augustin {std. Gomont}|first entry]] for this author
+> [!example] See also [[Gomont, Maurice Augustin|first entry]] for this author
 
 ### Author
 

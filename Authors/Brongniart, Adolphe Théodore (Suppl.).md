@@ -5,7 +5,7 @@ std_form: Brongn.
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33266423) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brongniart, Adolphe Théodore {std. Brongn.}|first entry]] for this author
+> [!example] See also [[Brongniart, Adolphe Théodore|first entry]] for this author
 
 ### Author
 

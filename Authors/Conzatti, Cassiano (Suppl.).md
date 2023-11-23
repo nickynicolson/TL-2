@@ -5,7 +5,7 @@ std_form: Conz.
 > [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265995) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Conzatti, Cassiano {std. Conz.}|first entry]] for this author
+> [!example] See also [[Conzatti, Cassiano|first entry]] for this author
 
 ### Author
 

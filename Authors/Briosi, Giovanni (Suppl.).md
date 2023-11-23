@@ -5,7 +5,7 @@ std_form: Briosi
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33266385) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Briosi, Giovanni {std. Briosi}|first entry]] for this author
+> [!example] See also [[Briosi, Giovanni|first entry]] for this author
 
 ### Author
 

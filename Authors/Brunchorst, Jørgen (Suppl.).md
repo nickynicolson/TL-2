@@ -5,7 +5,7 @@ std_form: Brunch.
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33266467) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brunchorst, Jörgen {std. Brunch.}|first entry]] for this author
+> [!example] See also [[Brunchorst, Jörgen|first entry]] for this author
 
 ### Author
 

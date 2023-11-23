@@ -5,7 +5,7 @@ std_form: M.A.Curtis
 > [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Curtis, Moses Ashley {std. M.A. Curtis}|first entry]] for this author
+> [!example] See also [[Curtis, Moses Ashley|first entry]] for this author
 
 ### Author
 

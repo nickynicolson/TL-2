@@ -5,7 +5,7 @@ std_form: Delogne
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259228) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Delogne, Charles Henri {std. Delogne}|first entry]] for this author
+> [!example] See also [[Delogne, Charles Henri|first entry]] for this author
 
 ### Author
 

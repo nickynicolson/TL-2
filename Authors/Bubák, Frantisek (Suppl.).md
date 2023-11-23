@@ -5,7 +5,7 @@ std_form: Bubák
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33266479) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bubák, František {std. Bubák}|first entry]] for this author
+> [!example] See also [[Bubák, František|first entry]] for this author
 
 ### Author
 

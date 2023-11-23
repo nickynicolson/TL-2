@@ -5,7 +5,7 @@ std_form: Eckl.
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33260242) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ecklon, Christian Friedrich (Frederik) {std. Eckl.}|first entry]] for this author
+> [!example] See also [[Ecklon, Christian Friedrich (Frederik)|first entry]] for this author
 
 ### Author
 

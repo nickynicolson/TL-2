@@ -5,7 +5,7 @@ std_form: Collett
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33265946) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Collett, (Sir) Henry {std. Collett}|first entry]] for this author
+> [!example] See also [[Collett, (Sir) Henry|first entry]] for this author
 
 ### Author
 

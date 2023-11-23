@@ -5,7 +5,7 @@ std_form: B.O.Dodge
 > [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33260002) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dodge, Bernard Ogilvie {std. B.O. Dodge}|first entry]] for this author
+> [!example] See also [[Dodge, Bernard Ogilvie|first entry]] for this author
 
 ### Author
 

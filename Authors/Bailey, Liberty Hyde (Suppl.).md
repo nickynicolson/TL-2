@@ -5,7 +5,7 @@ std_form: L.H.Bailey
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33264992) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bailey, Liberty Hyde {std. L.H. Bailey}|first entry]] for this author
+> [!example] See also [[Bailey, Liberty Hyde|first entry]] for this author
 
 ### Author
 

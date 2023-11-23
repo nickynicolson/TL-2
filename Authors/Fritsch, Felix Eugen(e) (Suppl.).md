@@ -5,7 +5,7 @@ std_form: F.E.Fritsch
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33258487) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fritsch, Felix Eugen {std. F.E. Fritsch}|first entry]] for this author
+> [!example] See also [[Fritsch, Felix Eugen|first entry]] for this author
 
 ### Author
 

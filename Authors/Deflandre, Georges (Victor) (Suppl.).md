@@ -5,7 +5,7 @@ std_form: Deflandre
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33259190) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Deflandre, Georges (-Victor) {std. Deflandre}|first entry]] for this author
+> [!example] See also [[Deflandre, Georges (-Victor)|first entry]] for this author
 
 ### Author
 

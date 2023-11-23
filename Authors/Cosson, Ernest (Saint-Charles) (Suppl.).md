@@ -5,7 +5,7 @@ std_form: Coss.
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33266064) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cosson, Ernest Saint-Charles {std. Coss.}|first entry]] for this author
+> [!example] See also [[Cosson, Ernest Saint-Charles|first entry]] for this author
 
 ### Author
 

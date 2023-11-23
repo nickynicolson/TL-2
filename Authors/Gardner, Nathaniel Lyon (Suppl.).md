@@ -5,7 +5,7 @@ std_form: N.L.Gardner
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33258602) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gardner, Nathaniel Lyon {std. N.L. Gardner}|first entry]] for this author
+> [!example] See also [[Gardner, Nathaniel Lyon|first entry]] for this author
 
 ### Author
 

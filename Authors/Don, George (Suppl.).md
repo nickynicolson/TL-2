@@ -5,7 +5,7 @@ std_form: G.Don
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33260037) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Don, George (1798-1856) {std. G. Don}|first entry]] for this author
+> [!example] See also [[Don, George (1798-1856)|first entry]] for this author
 
 ### Author
 

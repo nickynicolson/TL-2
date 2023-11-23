@@ -5,7 +5,7 @@ std_form: Gillot
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33258698) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gillot, François Xavier {std. Gillot}|first entry]] for this author
+> [!example] See also [[Gillot, François Xavier|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: J.Arnaud
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33264888) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arnaud, Jean André Michel {std. J. Arnaud}|first entry]] for this author
+> [!example] See also [[Arnaud, Jean André Michel|first entry]] for this author
 
 ### Author
 

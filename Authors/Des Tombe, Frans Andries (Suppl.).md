@@ -5,7 +5,7 @@ std_form: Tombe
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259279) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Tombe, Frans Andries des {std. Tombe}|first entry]] for this author
+> [!example] See also [[Tombe, Frans Andries des|first entry]] for this author
 
 ### Author
 

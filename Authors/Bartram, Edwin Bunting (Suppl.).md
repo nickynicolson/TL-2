@@ -5,7 +5,7 @@ std_form: E.B.Bartram
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33265079) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bartram, Edwin Bunting {std. E.B. Bartram}|first entry]] for this author
+> [!example] See also [[Bartram, Edwin Bunting|first entry]] for this author
 
 ### Author
 

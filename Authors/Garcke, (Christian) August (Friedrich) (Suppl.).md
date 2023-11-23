@@ -5,7 +5,7 @@ std_form: Garcke
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33258601) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Garcke, Christian August Friedrich {std. Garcke}|first entry]] for this author
+> [!example] See also [[Garcke, Christian August Friedrich|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: H.Buch
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33266489) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buch, Hans Robert Viktor {std. H. Buch}|first entry]] for this author
+> [!example] See also [[Buch, Hans Robert Viktor|first entry]] for this author
 
 ### Author
 

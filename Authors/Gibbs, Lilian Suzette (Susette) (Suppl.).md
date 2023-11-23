@@ -5,7 +5,7 @@ std_form: Gibbs
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33258676) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gibbs, Lilian Suzette {std. Gibbs}|first entry]] for this author
+> [!example] See also [[Gibbs, Lilian Suzette|first entry]] for this author
 
 ### Author
 

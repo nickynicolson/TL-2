@@ -5,7 +5,7 @@ std_form: Gaud.
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33258624) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gaudichaud-Beaupré, Charles {std. Gaud.}|first entry]] for this author
+> [!example] See also [[Gaudichaud-Beaupré, Charles|first entry]] for this author
 
 ### Author
 

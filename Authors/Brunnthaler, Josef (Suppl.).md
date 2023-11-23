@@ -5,7 +5,7 @@ std_form: Brunnth.
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33266471) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brunnthaler, Josef {std. Brunnth.}|first entry]] for this author
+> [!example] See also [[Brunnthaler, Josef|first entry]] for this author
 
 ### Author
 

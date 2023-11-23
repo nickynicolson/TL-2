@@ -5,7 +5,7 @@ std_form: Bretschn.
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33266377) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bretschneider, Emil (Vasilievic) {std. Bretschn.}|first entry]] for this author
+> [!example] See also [[Bretschneider, Emil (Vasilievic)|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Durieu
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33260186) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Durieu de Maisonneuve, Michel Charles {std. Durieu}|first entry]] for this author
+> [!example] See also [[Durieu de Maisonneuve, Michel Charles|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Descourt.
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33259262) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Descourtilz, Michel Étienne {std. Descourt.}|first entry]] for this author
+> [!example] See also [[Descourtilz, Michel Étienne|first entry]] for this author
 
 ### Author
 

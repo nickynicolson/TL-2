@@ -5,7 +5,7 @@ std_form: Gamble
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33258588) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gamble, James Sykes {std. Gamble}|first entry]] for this author
+> [!example] See also [[Gamble, James Sykes|first entry]] for this author
 
 ### Author
 

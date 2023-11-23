@@ -5,7 +5,7 @@ std_form: Binn.
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33265364) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Binnendijk, Simon {std. Binn.}|first entry]] for this author
+> [!example] See also [[Binnendijk, Simon|first entry]] for this author
 
 ### Author
 

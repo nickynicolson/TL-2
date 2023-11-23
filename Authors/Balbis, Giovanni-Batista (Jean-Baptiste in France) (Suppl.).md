@@ -5,7 +5,7 @@ std_form: Balb.
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33265014) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Balbis, Giovanni-Batista {std. Balb.}|first entry]] for this author
+> [!example] See also [[Balbis, Giovanni-Batista|first entry]] for this author
 
 ### Author
 

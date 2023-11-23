@@ -5,7 +5,7 @@ std_form: R.Br.
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33266445) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brown, Robert {std. R. Br.}|first entry]] for this author
+> [!example] See also [[Brown, Robert|first entry]] for this author
 
 ### Author
 

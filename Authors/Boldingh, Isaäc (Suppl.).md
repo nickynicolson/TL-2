@@ -5,7 +5,7 @@ std_form: Bold.
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33265486) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boldingh, Isaac {std. Bold.}|first entry]] for this author
+> [!example] See also [[Boldingh, Isaac|first entry]] for this author
 
 ### Author
 

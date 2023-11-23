@@ -5,7 +5,7 @@ std_form: Frey
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33258524) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Frey, Eduard (-Stauffer) {std. Frey}|first entry]] for this author
+> [!example] See also [[Frey, Eduard (-Stauffer)|first entry]] for this author
 
 ### Author
 

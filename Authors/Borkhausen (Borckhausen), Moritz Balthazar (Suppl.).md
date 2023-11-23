@@ -5,7 +5,7 @@ std_form: Borkh.
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33265537) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Borkhausen, Moriz Balthasar {std. Borkh.}|first entry]] for this author
+> [!example] See also [[Borkhausen, Moriz Balthasar|first entry]] for this author
 
 ### Author
 

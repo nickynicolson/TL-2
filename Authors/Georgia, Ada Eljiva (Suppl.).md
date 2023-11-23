@@ -5,7 +5,7 @@ std_form: Georgia
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33258660) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Georgia, Ada E. {std. Georgia}|first entry]] for this author
+> [!example] See also [[Georgia, Ada E.|first entry]] for this author
 
 ### Author
 

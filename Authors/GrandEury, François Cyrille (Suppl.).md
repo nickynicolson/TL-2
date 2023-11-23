@@ -5,7 +5,7 @@ std_form: GrandEury
 > [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33258807) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[GrandEury, François Cyrille {std. GrandEury}|first entry]] for this author
+> [!example] See also [[GrandEury, François Cyrille|first entry]] for this author
 
 ### Author
 

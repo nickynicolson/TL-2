@@ -5,7 +5,7 @@ std_form: Brign.
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33266383) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brignoli di Brunnhoff, Giovanni de {std. Brign.}|first entry]] for this author
+> [!example] See also [[Brignoli di Brunnhoff, Giovanni de|first entry]] for this author
 
 ### Author
 

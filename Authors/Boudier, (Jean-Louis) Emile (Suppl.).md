@@ -5,7 +5,7 @@ std_form: Boud.
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boudier, Jean Louis Émile {std. Boud.}|first entry]] for this author
+> [!example] See also [[Boudier, Jean Louis Émile|first entry]] for this author
 
 ### Author
 

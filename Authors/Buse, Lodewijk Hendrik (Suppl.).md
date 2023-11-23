@@ -5,7 +5,7 @@ std_form: Buse
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33266584) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buse, L. H. {std. Buse}|first entry]] for this author
+> [!example] See also [[Buse, L. H.|first entry]] for this author
 
 ### Author
 

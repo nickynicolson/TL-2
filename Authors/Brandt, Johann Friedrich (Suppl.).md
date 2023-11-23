@@ -5,7 +5,7 @@ std_form: Brandt
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33266323) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brandt, Johann Friedrich (von) {std. Brandt}|first entry]] for this author
+> [!example] See also [[Brandt, Johann Friedrich (von)|first entry]] for this author
 
 ### Author
 

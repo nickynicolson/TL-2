@@ -5,7 +5,7 @@ std_form: P.A.Dang.
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33259093) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dangeard, Pierre (Clement) Augustin {std. P.A. Dang.}|first entry]] for this author
+> [!example] See also [[Dangeard, Pierre (Clement) Augustin|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: V.Allorge
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33264807) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Allorge, Valentine, née Sélitsky {std. V. Allorge}|first entry]] for this author
+> [!example] See also [[Allorge, Valentine, née Sélitsky|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: L.F.Čelak.
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33265685) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Čelakovský, Ladislav Franz {std. L.F. Čelak.}|first entry]] for this author
+> [!example] See also [[Čelakovský, Ladislav Franz|first entry]] for this author
 
 ### Author
 

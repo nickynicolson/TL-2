@@ -5,7 +5,7 @@ std_form: All.
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33264803) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Allioni, Carlo {std. All.}|first entry]] for this author
+> [!example] See also [[Allioni, Carlo|first entry]] for this author
 
 ### Author
 

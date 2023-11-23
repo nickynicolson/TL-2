@@ -5,7 +5,7 @@ std_form: Bureau
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33266538) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bureau, Louis Édouard {std. Bureau}|first entry]] for this author
+> [!example] See also [[Bureau, Louis Édouard|first entry]] for this author
 
 ### Author
 

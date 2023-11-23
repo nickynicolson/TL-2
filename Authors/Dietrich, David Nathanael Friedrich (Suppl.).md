@@ -5,7 +5,7 @@ std_form: D.Dietr.
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33259378) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dietrich, David Nathanael Friedrich {std. D. Dietr.}|first entry]] for this author
+> [!example] See also [[Dietrich, David Nathanael Friedrich|first entry]] for this author
 
 ### Author
 

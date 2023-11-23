@@ -5,7 +5,7 @@ std_form: Foreau
 > [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33259818) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Foreau, Georges {std. Foreau}|first entry]] for this author
+> [!example] See also [[Foreau, Georges|first entry]] for this author
 
 ### Author
 

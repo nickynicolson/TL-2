@@ -5,7 +5,7 @@ std_form: Arnold
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33264892) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arnold, Ferdinand Christian Gustav (von Eichstätt) {std. Arnold}|first entry]] for this author
+> [!example] See also [[Arnold, Ferdinand Christian Gustav (von Eichstätt)|first entry]] for this author
 
 ### Author
 

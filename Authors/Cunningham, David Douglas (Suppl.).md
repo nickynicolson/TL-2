@@ -5,7 +5,7 @@ std_form: D.D.Cunn.
 > [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33266182) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cunningham, David Douglas {std. D.D. Cunn.}|first entry]] for this author
+> [!example] See also [[Cunningham, David Douglas|first entry]] for this author
 
 ### Author
 

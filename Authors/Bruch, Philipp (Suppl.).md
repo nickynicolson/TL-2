@@ -5,7 +5,7 @@ std_form: Bruch
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33266455) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bruch, Philipp {std. Bruch}|first entry]] for this author
+> [!example] See also [[Bruch, Philipp|first entry]] for this author
 
 ### Author
 

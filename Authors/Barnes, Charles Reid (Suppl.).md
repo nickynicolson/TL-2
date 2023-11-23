@@ -5,7 +5,7 @@ std_form: Barnes
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33265058) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Barnes, Charles Reid {std. Barnes}|first entry]] for this author
+> [!example] See also [[Barnes, Charles Reid|first entry]] for this author
 
 ### Author
 

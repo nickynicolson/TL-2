@@ -5,7 +5,7 @@ std_form: Fristedt
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33258484) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fristedt, Robert Fredric (Fredrik) {std. Fristedt}|first entry]] for this author
+> [!example] See also [[Fristedt, Robert Fredric (Fredrik)|first entry]] for this author
 
 ### Author
 

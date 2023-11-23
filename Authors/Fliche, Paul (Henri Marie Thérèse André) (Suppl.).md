@@ -5,7 +5,7 @@ std_form: Fliche
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33259760) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fliche, Paul Henri Maria Thérèse André {std. Fliche}|first entry]] for this author
+> [!example] See also [[Fliche, Paul Henri Maria Thérèse André|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Buller
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33266524) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buller, Arthur Henry Reginald {std. Buller}|first entry]] for this author
+> [!example] See also [[Buller, Arthur Henry Reginald|first entry]] for this author
 
 ### Author
 

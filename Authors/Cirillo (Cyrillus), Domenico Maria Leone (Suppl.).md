@@ -5,7 +5,7 @@ std_form: Cirillo
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33265855) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cirillo, Domenico Maria Leone {std. Cirillo}|first entry]] for this author
+> [!example] See also [[Cirillo, Domenico Maria Leone|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: J.W.Bailey
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33264991) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bailey, Jacob Whitman {std. J.W. Bailey}|first entry]] for this author
+> [!example] See also [[Bailey, Jacob Whitman|first entry]] for this author
 
 ### Author
 

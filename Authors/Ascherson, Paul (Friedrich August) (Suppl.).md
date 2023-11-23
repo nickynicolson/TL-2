@@ -5,7 +5,7 @@ std_form: Aschers.
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33264913) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ascherson, Paul Friedrich August {std. Aschers.}|first entry]] for this author
+> [!example] See also [[Ascherson, Paul Friedrich August|first entry]] for this author
 
 ### Author
 

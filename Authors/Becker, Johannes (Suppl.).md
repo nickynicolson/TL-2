@@ -5,7 +5,7 @@ std_form: Becker
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33265228) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Becker, Johannes {std. Becker}|first entry]] for this author
+> [!example] See also [[Becker, Johannes|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Biasol.
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33265352) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Biasoletto, Bartolommeo {std. Biasol.}|first entry]] for this author
+> [!example] See also [[Biasoletto, Bartolommeo|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Alstr.
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33264817) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Alströmer, Clas (1778 friherre, baron) (von) {std. Alstr.}|first entry]] for this author
+> [!example] See also [[Alströmer, Clas (1778 friherre, baron) (von)|first entry]] for this author
 
 ### Author
 

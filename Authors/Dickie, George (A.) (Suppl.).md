@@ -5,7 +5,7 @@ std_form: Dickie
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33259331) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dickie, George {std. Dickie}|first entry]] for this author
+> [!example] See also [[Dickie, George|first entry]] for this author
 
 ### Author
 

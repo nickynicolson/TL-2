@@ -5,7 +5,7 @@ std_form: Barnéoud
 > [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33265057) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Barnéoud, François Marius {std. Barnéoud}|first entry]] for this author
+> [!example] See also [[Barnéoud, François Marius|first entry]] for this author
 
 ### Author
 

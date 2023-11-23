@@ -5,7 +5,7 @@ std_form: Biroli
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265370) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Biroli, Giovanni {std. Biroli}|first entry]] for this author
+> [!example] See also [[Biroli, Giovanni|first entry]] for this author
 
 ### Author
 

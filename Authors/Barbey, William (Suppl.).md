@@ -5,7 +5,7 @@ std_form: Barbey
 > [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33265044) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Barbey, William {std. Barbey}|first entry]] for this author
+> [!example] See also [[Barbey, William|first entry]] for this author
 
 ### Author
 

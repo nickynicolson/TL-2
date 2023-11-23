@@ -5,7 +5,7 @@ std_form: Dixon
 > [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33259409) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dixon, Hugh Neville {std. Dixon}|first entry]] for this author
+> [!example] See also [[Dixon, Hugh Neville|first entry]] for this author
 
 ### Author
 

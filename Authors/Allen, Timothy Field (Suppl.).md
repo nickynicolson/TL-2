@@ -5,7 +5,7 @@ std_form: T.F.Allen
 > [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33264800) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Allen, Timothy Field {std. T.F. Allen}|first entry]] for this author
+> [!example] See also [[Allen, Timothy Field|first entry]] for this author
 
 ### Author
 

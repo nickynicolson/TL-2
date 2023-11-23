@@ -5,7 +5,7 @@ std_form: Chiarugi
 > [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33265776) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chiarugi, Alberto {std. Chiarugi}|first entry]] for this author
+> [!example] See also [[Chiarugi, Alberto|first entry]] for this author
 
 ### Author
 

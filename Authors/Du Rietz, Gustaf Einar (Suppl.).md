@@ -5,7 +5,7 @@ std_form: Du Rietz
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33260178) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Rietz, Gustaf Einar Du {std. Du Rietz}|first entry]] for this author
+> [!example] See also [[Rietz, Gustaf Einar Du|first entry]] for this author
 
 ### Author
 

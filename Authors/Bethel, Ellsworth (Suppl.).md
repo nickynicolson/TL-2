@@ -5,7 +5,7 @@ std_form: Bethel
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bethel, Ellsworth {std. Bethel}|first entry]] for this author
+> [!example] See also [[Bethel, Ellsworth|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Arrh.
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33264897) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arrhenius, Johan Peter (Pehr, Petter) {std. Arrh.}|first entry]] for this author
+> [!example] See also [[Arrhenius, Johan Peter (Pehr, Petter)|first entry]] for this author
 
 ### Author
 

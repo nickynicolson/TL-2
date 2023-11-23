@@ -5,7 +5,7 @@ std_form: Fernald
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33259649) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fernald, Merritt Lyndon {std. Fernald}|first entry]] for this author
+> [!example] See also [[Fernald, Merritt Lyndon|first entry]] for this author
 
 ### Author
 

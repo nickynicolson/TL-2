@@ -5,7 +5,7 @@ std_form: Bainier
 > [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265000) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bainier, Georges {std. Bainier}|first entry]] for this author
+> [!example] See also [[Bainier, Georges|first entry]] for this author
 
 ### Author
 

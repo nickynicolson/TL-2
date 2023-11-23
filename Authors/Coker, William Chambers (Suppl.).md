@@ -5,7 +5,7 @@ std_form: Coker
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33265938) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Coker, William Chambers {std. Coker}|first entry]] for this author
+> [!example] See also [[Coker, William Chambers|first entry]] for this author
 
 ### Author
 

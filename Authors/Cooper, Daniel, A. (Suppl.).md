@@ -5,7 +5,7 @@ std_form: Cooper
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33266013) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cooper, Daniel {std. Cooper}|first entry]] for this author
+> [!example] See also [[Cooper, Daniel|first entry]] for this author
 
 ### Author
 

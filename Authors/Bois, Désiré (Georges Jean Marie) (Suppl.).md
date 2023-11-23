@@ -5,7 +5,7 @@ std_form: Bois
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33265473) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bois, Désiré Georges Jean Marie {std. Bois}|first entry]] for this author
+> [!example] See also [[Bois, Désiré Georges Jean Marie|first entry]] for this author
 
 ### Author
 

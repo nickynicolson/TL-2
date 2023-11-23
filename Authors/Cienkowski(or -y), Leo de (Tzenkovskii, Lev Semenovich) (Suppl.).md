@@ -5,7 +5,7 @@ std_form: Cienk.
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265850) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cienkowski, Leo de (Tzenkovskii, Lev Semenovich) {std. Cienk.}|first entry]] for this author
+> [!example] See also [[Cienkowski, Leo de (Tzenkovskii, Lev Semenovich)|first entry]] for this author
 
 ### Author
 

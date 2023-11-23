@@ -5,7 +5,7 @@ std_form: Guss.
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33258941) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gussone, Giovanni {std. Guss.}|first entry]] for this author
+> [!example] See also [[Gussone, Giovanni|first entry]] for this author
 
 ### Author
 

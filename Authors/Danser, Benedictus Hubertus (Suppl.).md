@@ -5,7 +5,7 @@ std_form: Danser
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33259102) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Danser, Benedictus Hubertus {std. Danser}|first entry]] for this author
+> [!example] See also [[Danser, Benedictus Hubertus|first entry]] for this author
 
 ### Author
 

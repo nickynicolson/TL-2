@@ -5,7 +5,7 @@ std_form: A.Gray
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33258809) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gray, Asa {std. A. Gray}|first entry]] for this author
+> [!example] See also [[Gray, Asa|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Camp
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33266632) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Camp, Wendel Holmes {std. Camp}|first entry]] for this author
+> [!example] See also [[Camp, Wendel Holmes|first entry]] for this author
 
 ### Author
 

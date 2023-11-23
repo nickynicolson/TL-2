@@ -5,7 +5,7 @@ std_form: Boenn.
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33265452) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boenninghausen, Clemens Maria Friedrich von {std. Boenn.}|first entry]] for this author
+> [!example] See also [[Boenninghausen, Clemens Maria Friedrich von|first entry]] for this author
 
 ### Author
 

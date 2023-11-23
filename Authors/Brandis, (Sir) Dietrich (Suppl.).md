@@ -5,7 +5,7 @@ std_form: Brandis
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33266320) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brandis, Sir Dietrich {std. Brandis}|first entry]] for this author
+> [!example] See also [[Brandis, Sir Dietrich|first entry]] for this author
 
 ### Author
 

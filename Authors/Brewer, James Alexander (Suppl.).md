@@ -5,7 +5,7 @@ std_form: Brewer
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33266378) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brewer, James Alexander {std. Brewer}|first entry]] for this author
+> [!example] See also [[Brewer, James Alexander|first entry]] for this author
 
 ### Author
 

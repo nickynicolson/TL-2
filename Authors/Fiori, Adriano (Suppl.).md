@@ -5,7 +5,7 @@ std_form: Fiori
 > [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33259698) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fiori, Adriano {std. Fiori}|first entry]] for this author
+> [!example] See also [[Fiori, Adriano|first entry]] for this author
 
 ### Author
 

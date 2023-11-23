@@ -5,7 +5,7 @@ std_form: L.C.Beck
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33265224) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Beck, Lewis Caleb {std. L.C. Beck}|first entry]] for this author
+> [!example] See also [[Beck, Lewis Caleb|first entry]] for this author
 
 ### Author
 

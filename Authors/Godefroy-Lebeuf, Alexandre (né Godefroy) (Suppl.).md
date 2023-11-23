@@ -5,7 +5,7 @@ std_form: God.-Leb.
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33258728) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Godefroy-Leboeuf, Alexandre {std. God.-Leb.}|first entry]] for this author
+> [!example] See also [[Godefroy-Leboeuf, Alexandre|first entry]] for this author
 
 ### Author
 

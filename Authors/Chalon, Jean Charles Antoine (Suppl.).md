@@ -5,7 +5,7 @@ std_form: Chalon
 > [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33265716) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chalon, Jean Charles Antoine {std. Chalon}|first entry]] for this author
+> [!example] See also [[Chalon, Jean Charles Antoine|first entry]] for this author
 
 ### Author
 

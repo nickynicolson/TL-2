@@ -5,7 +5,7 @@ std_form: Gäum.
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33258570) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gäumann, Ernest Albert {std. Gäum.}|first entry]] for this author
+> [!example] See also [[Gäumann, Ernest Albert|first entry]] for this author
 
 ### Author
 

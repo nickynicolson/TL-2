@@ -5,7 +5,7 @@ std_form: Burch.
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33266533) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Burchell, William John {std. Burch.}|first entry]] for this author
+> [!example] See also [[Burchell, William John|first entry]] for this author
 
 ### Author
 

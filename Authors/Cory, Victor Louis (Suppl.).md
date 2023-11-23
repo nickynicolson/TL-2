@@ -5,7 +5,7 @@ std_form: Cory
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33266063) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cory, Victor Louis {std. Cory}|first entry]] for this author
+> [!example] See also [[Cory, Victor Louis|first entry]] for this author
 
 ### Author
 

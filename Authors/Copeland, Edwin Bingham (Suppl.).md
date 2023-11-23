@@ -5,7 +5,7 @@ std_form: Copel.
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33266018) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Copeland, Edwin Bingham {std. Copel.}|first entry]] for this author
+> [!example] See also [[Copeland, Edwin Bingham|first entry]] for this author
 
 ### Author
 

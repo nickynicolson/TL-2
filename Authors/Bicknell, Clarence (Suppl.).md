@@ -5,7 +5,7 @@ std_form: C.Bicknell
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265353) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bicknell, Clarence {std. C. Bicknell}|first entry]] for this author
+> [!example] See also [[Bicknell, Clarence|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Delile
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33259223) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Delile, Alire (Raffeneau) {std. Delile}|first entry]] for this author
+> [!example] See also [[Delile, Alire (Raffeneau)|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: J.Groves
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33258902) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Groves, James {std. J. Groves}|first entry]] for this author
+> [!example] See also [[Groves, James|first entry]] for this author
 
 ### Author
 

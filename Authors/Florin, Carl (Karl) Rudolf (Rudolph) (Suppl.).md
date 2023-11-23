@@ -5,7 +5,7 @@ std_form: Florin
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33259767) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Florin, Carl Rudolf {std. Florin}|first entry]] for this author
+> [!example] See also [[Florin, Carl Rudolf|first entry]] for this author
 
 ### Author
 

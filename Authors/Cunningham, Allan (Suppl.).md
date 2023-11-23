@@ -5,7 +5,7 @@ std_form: A.Cunn.
 > [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33266180) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cunningham, Allan {std. A. Cunn.}|first entry]] for this author
+> [!example] See also [[Cunningham, Allan|first entry]] for this author
 
 ### Author
 

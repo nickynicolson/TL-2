@@ -5,7 +5,7 @@ std_form: Boott
 > [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33265523) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boott, Francis M. B. {std. Boott}|first entry]] for this author
+> [!example] See also [[Boott, Francis M. B.|first entry]] for this author
 
 ### Author
 

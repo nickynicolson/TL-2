@@ -5,7 +5,7 @@ std_form: Grønlund
 > [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33258884) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Grønlund, Carl Christian Howitz {std. Grønlund}|first entry]] for this author
+> [!example] See also [[Grønlund, Carl Christian Howitz|first entry]] for this author
 
 ### Author
 

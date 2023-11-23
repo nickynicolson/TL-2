@@ -5,7 +5,7 @@ std_form: A.Chev.
 > [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33265766) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Chevalier, Auguste Jean Baptiste {std. A. Chev.}|first entry]] for this author
+> [!example] See also [[Chevalier, Auguste Jean Baptiste|first entry]] for this author
 
 ### Author
 

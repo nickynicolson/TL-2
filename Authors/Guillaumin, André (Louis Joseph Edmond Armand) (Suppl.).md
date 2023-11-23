@@ -5,7 +5,7 @@ std_form: Guillaumin
 > [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33258925) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Guillaumin, André {std. Guillaumin}|first entry]] for this author
+> [!example] See also [[Guillaumin, André|first entry]] for this author
 
 ### Author
 

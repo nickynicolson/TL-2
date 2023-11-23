@@ -5,7 +5,7 @@ std_form: Baldinger
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33265020) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baldinger, Ernst Gottfried {std. Baldinger}|first entry]] for this author
+> [!example] See also [[Baldinger, Ernst Gottfried|first entry]] for this author
 
 ### Author
 

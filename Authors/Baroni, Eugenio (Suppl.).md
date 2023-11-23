@@ -5,7 +5,7 @@ std_form: Baroni
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33265064) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baroni, Eugenio {std. Baroni}|first entry]] for this author
+> [!example] See also [[Baroni, Eugenio|first entry]] for this author
 
 ### Author
 

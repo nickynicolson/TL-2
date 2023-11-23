@@ -5,7 +5,7 @@ std_form: Albertini
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33264787) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Albertini, Johannes Baptista von {std. Albertini}|first entry]] for this author
+> [!example] See also [[Albertini, Johannes Baptista von|first entry]] for this author
 
 ### Author
 

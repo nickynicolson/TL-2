@@ -5,7 +5,7 @@ std_form: Burl.
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33266558) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Burlingham, Gertrude Simmons {std. Burl.}|first entry]] for this author
+> [!example] See also [[Burlingham, Gertrude Simmons|first entry]] for this author
 
 ### Author
 

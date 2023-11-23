@@ -5,7 +5,7 @@ std_form: Bourg.
 > [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33265589) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bourgeau, Eugène {std. Bourg.}|first entry]] for this author
+> [!example] See also [[Bourgeau, Eugène|first entry]] for this author
 
 ### Author
 

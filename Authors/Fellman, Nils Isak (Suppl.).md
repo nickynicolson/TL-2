@@ -5,7 +5,7 @@ std_form: N.I.Fellm.
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33259629) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fellman, Nils Isak {std. N.I. Fellm.}|first entry]] for this author
+> [!example] See also [[Fellman, Nils Isak|first entry]] for this author
 
 ### Author
 

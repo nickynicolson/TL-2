@@ -5,7 +5,7 @@ std_form: Fomin
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33259797) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fomin, Aleksandr Vasilievich {std. Fomin}|first entry]] for this author
+> [!example] See also [[Fomin, Aleksandr Vasilievich|first entry]] for this author
 
 ### Author
 

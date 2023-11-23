@@ -5,7 +5,7 @@ std_form: Fairm.
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33259526) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fairman, Charles Edward {std. Fairm.}|first entry]] for this author
+> [!example] See also [[Fairman, Charles Edward|first entry]] for this author
 
 ### Author
 

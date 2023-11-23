@@ -5,7 +5,7 @@ std_form: Erikss.
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33260379) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Eriksson, Jakob {std. Erikss.}|first entry]] for this author
+> [!example] See also [[Eriksson, Jakob|first entry]] for this author
 
 ### Author
 

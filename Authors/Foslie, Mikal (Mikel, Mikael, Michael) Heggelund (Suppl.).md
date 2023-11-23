@@ -5,7 +5,7 @@ std_form: Foslie
 > [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33259847) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Foslie, Michael (Mikal) Heggelund {std. Foslie}|first entry]] for this author
+> [!example] See also [[Foslie, Michael (Mikal) Heggelund|first entry]] for this author
 
 ### Author
 

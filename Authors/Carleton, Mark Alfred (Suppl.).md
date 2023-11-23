@@ -5,7 +5,7 @@ std_form: Carleton
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33266723) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Carleton, Mark Alfred {std. Carleton}|first entry]] for this author
+> [!example] See also [[Carleton, Mark Alfred|first entry]] for this author
 
 ### Author
 

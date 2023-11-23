@@ -5,7 +5,7 @@ std_form: Dummer
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33260148) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dümmer, Richard Arnold {std. Dummer}|first entry]] for this author
+> [!example] See also [[Dümmer, Richard Arnold|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Ducke
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33260125) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ducke, Adolpho {std. Ducke}|first entry]] for this author
+> [!example] See also [[Ducke, Adolpho|first entry]] for this author
 
 ### Author
 

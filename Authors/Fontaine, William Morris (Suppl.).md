@@ -5,7 +5,7 @@ std_form: Fontaine
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33259800) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fontaine, William Morris {std. Fontaine}|first entry]] for this author
+> [!example] See also [[Fontaine, William Morris|first entry]] for this author
 
 ### Author
 

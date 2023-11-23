@@ -5,7 +5,7 @@ std_form: A.Br.
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33266439) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brown, Addison {std. A. Br.}|first entry]] for this author
+> [!example] See also [[Brown, Addison|first entry]] for this author
 
 ### Author
 

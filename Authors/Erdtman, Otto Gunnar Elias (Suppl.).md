@@ -5,7 +5,7 @@ std_form: Erdtman
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33260372) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Erdtman, Otto Gunnar Elias {std. Erdtman}|first entry]] for this author
+> [!example] See also [[Erdtman, Otto Gunnar Elias|first entry]] for this author
 
 ### Author
 

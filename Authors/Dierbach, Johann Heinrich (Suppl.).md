@@ -5,7 +5,7 @@ std_form: Dierb.
 > [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33259363) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dierbach, Johann Heinrich {std. Dierb.}|first entry]] for this author
+> [!example] See also [[Dierbach, Johann Heinrich|first entry]] for this author
 
 ### Author
 

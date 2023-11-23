@@ -5,7 +5,7 @@ std_form: Gagnep.
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33258575) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gagnepain, François {std. Gagnep.}|first entry]] for this author
+> [!example] See also [[Gagnepain, François|first entry]] for this author
 
 ### Author
 

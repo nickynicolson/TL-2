@@ -5,7 +5,7 @@ std_form: Gand.
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33258595) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gandoger, Michel {std. Gand.}|first entry]] for this author
+> [!example] See also [[Gandoger, Michel|first entry]] for this author
 
 ### Author
 

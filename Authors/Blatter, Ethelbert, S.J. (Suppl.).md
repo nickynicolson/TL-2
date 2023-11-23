@@ -5,7 +5,7 @@ std_form: Blatt.
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Blatter, Ethelbert {std. Blatt.}|first entry]] for this author
+> [!example] See also [[Blatter, Ethelbert|first entry]] for this author
 
 ### Author
 

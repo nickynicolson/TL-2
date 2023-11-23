@@ -5,7 +5,7 @@ std_form: Cockerell
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33265917) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cockerell, Theodor Dru Alison {std. Cockerell}|first entry]] for this author
+> [!example] See also [[Cockerell, Theodor Dru Alison|first entry]] for this author
 
 ### Author
 

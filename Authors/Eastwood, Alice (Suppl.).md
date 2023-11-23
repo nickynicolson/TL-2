@@ -5,7 +5,7 @@ std_form: Eastw.
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33260225) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Eastwood, Alice {std. Eastw.}|first entry]] for this author
+> [!example] See also [[Eastwood, Alice|first entry]] for this author
 
 ### Author
 

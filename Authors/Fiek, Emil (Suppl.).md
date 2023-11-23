@@ -5,7 +5,7 @@ std_form: Fiek
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259679) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fiek, Emil {std. Fiek}|first entry]] for this author
+> [!example] See also [[Fiek, Emil|first entry]] for this author
 
 ### Author
 

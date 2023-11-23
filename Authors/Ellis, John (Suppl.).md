@@ -5,7 +5,7 @@ std_form: J.Ellis
 > [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33260301) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ellis, John {std. J. Ellis}|first entry]] for this author
+> [!example] See also [[Ellis, John|first entry]] for this author
 
 ### Author
 

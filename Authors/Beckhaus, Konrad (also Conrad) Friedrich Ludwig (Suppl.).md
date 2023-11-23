@@ -5,7 +5,7 @@ std_form: Beckh.
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265232) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Beckhaus, Konrad Friedrich Ludwig {std. Beckh.}|first entry]] for this author
+> [!example] See also [[Beckhaus, Konrad Friedrich Ludwig|first entry]] for this author
 
 ### Author
 

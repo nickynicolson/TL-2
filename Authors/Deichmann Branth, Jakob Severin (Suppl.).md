@@ -5,7 +5,7 @@ std_form: Branth
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33259210) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Branth, Jakob Severin Deichmann {std. Branth}|first entry]] for this author
+> [!example] See also [[Branth, Jakob Severin Deichmann|first entry]] for this author
 
 ### Author
 

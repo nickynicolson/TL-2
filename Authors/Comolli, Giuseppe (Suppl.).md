@@ -5,7 +5,7 @@ std_form: Comolli
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33265966) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Comolli, Giuseppe {std. Comolli}|first entry]] for this author
+> [!example] See also [[Comolli, Giuseppe|first entry]] for this author
 
 ### Author
 

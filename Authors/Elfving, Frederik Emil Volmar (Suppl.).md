@@ -5,7 +5,7 @@ std_form: Elfving
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33260289) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Elfving, Frederik Emil Volmar {std. Elfving}|first entry]] for this author
+> [!example] See also [[Elfving, Frederik Emil Volmar|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: E.B.Almq.
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33264810) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Almquist, Ernst Bernhard {std. E.B. Almq.}|first entry]] for this author
+> [!example] See also [[Almquist, Ernst Bernhard|first entry]] for this author
 
 ### Author
 

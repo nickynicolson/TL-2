@@ -5,7 +5,7 @@ std_form: Flahault
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259744) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Flahault, Charles Henri Marie {std. Flahault}|first entry]] for this author
+> [!example] See also [[Flahault, Charles Henri Marie|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Curtis
 > [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33266194) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Curtis, William {std. Curtis}|first entry]] for this author
+> [!example] See also [[Curtis, William|first entry]] for this author
 
 ### Author
 

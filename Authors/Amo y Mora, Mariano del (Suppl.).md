@@ -5,7 +5,7 @@ std_form: Amo
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33264830) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Amo y Mora, Mariano del {std. Amo}|first entry]] for this author
+> [!example] See also [[Amo y Mora, Mariano del|first entry]] for this author
 
 ### Author
 

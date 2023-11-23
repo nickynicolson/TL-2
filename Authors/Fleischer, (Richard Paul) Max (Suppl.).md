@@ -5,7 +5,7 @@ std_form: M.Fleisch.
 > [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33259751) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fleischer, Max {std. M. Fleisch.}|first entry]] for this author
+> [!example] See also [[Fleischer, Max|first entry]] for this author
 
 ### Author
 

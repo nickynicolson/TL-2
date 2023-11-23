@@ -5,7 +5,7 @@ std_form: H.N.Andrews
 > [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33264853) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Andrews, Henry Nathaniel, Jr. {std. H.N. Andrews}|first entry]] for this author
+> [!example] See also [[Andrews, Henry Nathaniel, Jr.|first entry]] for this author
 
 ### Author
 

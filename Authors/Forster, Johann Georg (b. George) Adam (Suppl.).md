@@ -5,9 +5,9 @@ std_form: G.Forster
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33259829) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Forster, Johann Georg Adam {std. G. Forster}|first entry]] for Johann Georg
+> [!example] See also [[Forster, Johann Georg Adam|first entry]] for Johann Georg
 
-> [!example] See also [[Forster, Johann Reinhold {std. J.R. Forster}|first entry]] for Johann Reinhold
+> [!example] See also [[Forster, Johann Reinhold|first entry]] for Johann Reinhold
 
 
 ### Author

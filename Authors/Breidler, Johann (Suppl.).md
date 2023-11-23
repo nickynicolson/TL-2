@@ -5,7 +5,7 @@ std_form: Breidl.
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33266357) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Breidler, Johann {std. Breidl.}|first entry]] for this author
+> [!example] See also [[Breidler, Johann|first entry]] for this author
 
 ### Author
 

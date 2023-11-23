@@ -5,7 +5,7 @@ std_form: C.Alm
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33264808) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Alm, Carl Gustaf {std. C. Alm}|first entry]] for this author
+> [!example] See also [[Alm, Carl Gustaf|first entry]] for this author
 
 ### Author
 

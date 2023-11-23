@@ -5,7 +5,7 @@ std_form: Bertero
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33265315) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bertero, Carlo Guiseppe {std. Bertero}|first entry]] for this author
+> [!example] See also [[Bertero, Carlo Guiseppe|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Dusén
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33260189) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dusén, Per Karl Hjalmar {std. Dusén}|first entry]] for this author
+> [!example] See also [[Dusén, Per Karl Hjalmar|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Gouan
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33258794) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gouan, Antoine {std. Gouan}|first entry]] for this author
+> [!example] See also [[Gouan, Antoine|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: H.Groves
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33258901) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Groves, Henry (of Clapham) {std. H. Groves}|first entry]] for this author
+> [!example] See also [[Groves, Henry (of Clapham)|first entry]] for this author
 
 ### Author
 

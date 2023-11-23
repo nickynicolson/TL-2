@@ -5,7 +5,7 @@ std_form: Cruse
 > [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33266164) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cruse, Carl Friedrich Wilhelm {std. Cruse}|first entry]] for this author
+> [!example] See also [[Cruse, Carl Friedrich Wilhelm|first entry]] for this author
 
 ### Author
 

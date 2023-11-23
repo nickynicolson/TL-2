@@ -5,7 +5,7 @@ std_form: Garov.
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33258607) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Garovaglio, Santo {std. Garov.}|first entry]] for this author
+> [!example] See also [[Garovaglio, Santo|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Atk.
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33264927) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Atkinson, George Francis {std. Atk.}|first entry]] for this author
+> [!example] See also [[Atkinson, George Francis|first entry]] for this author
 
 ### Author
 

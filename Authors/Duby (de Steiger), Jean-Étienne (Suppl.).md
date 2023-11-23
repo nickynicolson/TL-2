@@ -5,7 +5,7 @@ std_form: Duby
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33260110) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Duby, Jean Étienne {std. Duby}|first entry]] for this author
+> [!example] See also [[Duby, Jean Étienne|first entry]] for this author
 
 ### Author
 

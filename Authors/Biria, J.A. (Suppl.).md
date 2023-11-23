@@ -5,7 +5,7 @@ std_form: Biria
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265369) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Biria, J. A. J. {std. Biria}|first entry]] for this author
+> [!example] See also [[Biria, J. A. J.|first entry]] for this author
 
 ### Author
 

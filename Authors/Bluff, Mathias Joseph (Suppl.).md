@@ -5,7 +5,7 @@ std_form: Bluff
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33265422) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bluff, Mathias Joseph {std. Bluff}|first entry]] for this author
+> [!example] See also [[Bluff, Mathias Joseph|first entry]] for this author
 
 ### Author
 

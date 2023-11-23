@@ -5,7 +5,7 @@ std_form: Domin
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33260021) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Domin, Karel {std. Domin}|first entry]] for this author
+> [!example] See also [[Domin, Karel|first entry]] for this author
 
 ### Author
 

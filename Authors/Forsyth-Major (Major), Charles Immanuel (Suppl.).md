@@ -5,7 +5,7 @@ std_form: Fors.-Major
 > [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33259833) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Major, Charles Immanuel Forsyth (Forsyth Major) {std. Fors.-Major}|first entry]] for this author
+> [!example] See also [[Major, Charles Immanuel Forsyth (Forsyth Major)|first entry]] for this author
 
 ### Author
 

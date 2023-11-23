@@ -5,7 +5,7 @@ std_form: Claussen
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265872) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Claussen, Peter {std. Claussen}|first entry]] for this author
+> [!example] See also [[Claussen, Peter|first entry]] for this author
 
 ### Author
 

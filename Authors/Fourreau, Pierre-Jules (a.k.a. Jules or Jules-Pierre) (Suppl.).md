@@ -5,7 +5,7 @@ std_form: Fourr.
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33259866) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fourreau, Jules-Pierre {std. Fourr.}|first entry]] for this author
+> [!example] See also [[Fourreau, Jules-Pierre|first entry]] for this author
 
 ### Author
 

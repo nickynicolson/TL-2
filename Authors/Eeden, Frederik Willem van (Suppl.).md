@@ -5,7 +5,7 @@ std_form: Eeden
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33260250) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Eeden, Frederik Willem van {std. Eeden}|first entry]] for this author
+> [!example] See also [[Eeden, Frederik Willem van|first entry]] for this author
 
 ### Author
 

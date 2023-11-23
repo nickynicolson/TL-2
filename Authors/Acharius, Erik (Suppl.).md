@@ -5,7 +5,7 @@ std_form: Achar.
 > [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33264761) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Acharius, Erik {std. Achar.}|first entry]] for this author
+> [!example] See also [[Acharius, Erik|first entry]] for this author
 
 ### Author
 

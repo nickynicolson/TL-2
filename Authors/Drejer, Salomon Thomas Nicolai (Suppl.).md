@@ -5,7 +5,7 @@ std_form: Drejer
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33260081) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Drejer, Salomon Thomas Nicolai {std. Drejer}|first entry]] for this author
+> [!example] See also [[Drejer, Salomon Thomas Nicolai|first entry]] for this author
 
 ### Author
 

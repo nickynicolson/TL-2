@@ -5,7 +5,7 @@ std_form: Bohler
 > [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265470) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bohler, John {std. Bohler}|first entry]] for this author
+> [!example] See also [[Bohler, John|first entry]] for this author
 
 ### Author
 

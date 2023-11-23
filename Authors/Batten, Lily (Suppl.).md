@@ -5,7 +5,7 @@ std_form: L.Newton
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33265106) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Newton, Lily {std. L. Newton}|first entry]] for this author
+> [!example] See also [[Newton, Lily|first entry]] for this author
 
 ### Author
 

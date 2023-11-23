@@ -5,7 +5,7 @@ std_form: Forssell
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33259826) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Forssell, Karl Bror Jacob {std. Forssell}|first entry]] for this author
+> [!example] See also [[Forssell, Karl Bror Jacob|first entry]] for this author
 
 ### Author
 

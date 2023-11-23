@@ -5,7 +5,7 @@ std_form: Britton
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33266404) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Britton, Nathaniel Lord {std. Britton}|first entry]] for this author
+> [!example] See also [[Britton, Nathaniel Lord|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: G.Arnaud
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33264887) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Arnaud, Gabriel {std. G. Arnaud}|first entry]] for this author
+> [!example] See also [[Arnaud, Gabriel|first entry]] for this author
 
 ### Author
 

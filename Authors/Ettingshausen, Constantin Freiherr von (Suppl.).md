@@ -5,7 +5,7 @@ std_form: Ettingsh.
 > [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33260402) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ettingshausen, Constantin Freiherr von {std. Ettingsh.}|first entry]] for this author
+> [!example] See also [[Ettingshausen, Constantin Freiherr von|first entry]] for this author
 
 ### Author
 

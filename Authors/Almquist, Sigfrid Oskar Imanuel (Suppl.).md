@@ -5,7 +5,7 @@ std_form: Almq.
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33264811) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Almquist, Sigfrid Oscar Immanuel {std. Almq.}|first entry]] for this author
+> [!example] See also [[Almquist, Sigfrid Oscar Immanuel|first entry]] for this author
 
 ### Author
 

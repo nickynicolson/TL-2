@@ -5,7 +5,7 @@ std_form: Delastre
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33259218) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Delastre, Charles Jean Louis {std. Delastre}|first entry]] for this author
+> [!example] See also [[Delastre, Charles Jean Louis|first entry]] for this author
 
 ### Author
 

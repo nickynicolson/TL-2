@@ -5,7 +5,7 @@ std_form: Carrière
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33266729) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Carrière, Élie Abel {std. Carrière}|first entry]] for this author
+> [!example] See also [[Carrière, Élie Abel|first entry]] for this author
 
 ### Author
 

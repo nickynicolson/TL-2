@@ -5,7 +5,7 @@ std_form: Friche-Joset
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33258517) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Friche-Joset, François {std. Friche-Joset}|first entry]] for this author
+> [!example] See also [[Friche-Joset, François|first entry]] for this author
 
 ### Author
 

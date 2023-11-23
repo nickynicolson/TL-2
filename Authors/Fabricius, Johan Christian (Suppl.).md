@@ -5,7 +5,7 @@ std_form: J.Fabr.
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33259511) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fabricius, Johan Christian {std. J. Fabr.}|first entry]] for this author
+> [!example] See also [[Fabricius, Johan Christian|first entry]] for this author
 
 ### Author
 

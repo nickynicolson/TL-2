@@ -5,7 +5,7 @@ std_form: Blume
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33265423) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Blume, Carl (Karl) Ludwig {std. Blume}|first entry]] for this author
+> [!example] See also [[Blume, Carl (Karl) Ludwig|first entry]] for this author
 
 ### Author
 

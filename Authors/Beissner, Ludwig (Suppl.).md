@@ -5,7 +5,7 @@ std_form: Beissn.
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265257) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Beissner, Ludwig {std. Beissn.}|first entry]] for this author
+> [!example] See also [[Beissner, Ludwig|first entry]] for this author
 
 ### Author
 

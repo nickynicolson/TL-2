@@ -5,7 +5,7 @@ std_form: Buchenau
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33266495) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Buchenau, Franz Georg Philipp {std. Buchenau}|first entry]] for this author
+> [!example] See also [[Buchenau, Franz Georg Philipp|first entry]] for this author
 
 ### Author
 

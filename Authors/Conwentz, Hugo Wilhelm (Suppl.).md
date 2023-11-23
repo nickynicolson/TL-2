@@ -5,7 +5,7 @@ std_form: Conw.
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265989) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Conwentz, Hugo Wilhelm {std. Conw.}|first entry]] for this author
+> [!example] See also [[Conwentz, Hugo Wilhelm|first entry]] for this author
 
 ### Author
 

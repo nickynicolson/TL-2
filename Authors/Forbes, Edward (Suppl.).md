@@ -5,7 +5,7 @@ std_form: E.Forbes
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33259814) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Forbes, Edward {std. E. Forbes}|first entry]] for this author
+> [!example] See also [[Forbes, Edward|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Anzi
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33264861) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Anzi, Martino {std. Anzi}|first entry]] for this author
+> [!example] See also [[Anzi, Martino|first entry]] for this author
 
 ### Author
 

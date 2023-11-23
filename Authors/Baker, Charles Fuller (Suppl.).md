@@ -5,7 +5,7 @@ std_form: C.Baker
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33265001) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Baker, Charles Fuller {std. C. Baker}|first entry]] for this author
+> [!example] See also [[Baker, Charles Fuller|first entry]] for this author
 
 ### Author
 

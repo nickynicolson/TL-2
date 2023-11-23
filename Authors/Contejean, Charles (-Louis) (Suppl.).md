@@ -5,7 +5,7 @@ std_form: Contejean
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265986) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Contejean, Charles Louis {std. Contejean}|first entry]] for this author
+> [!example] See also [[Contejean, Charles Louis|first entry]] for this author
 
 ### Author
 

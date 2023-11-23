@@ -5,7 +5,7 @@ std_form: Durand
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33260169) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Durand, Elias (Elie) Magliore {std. Durand}|first entry]] for this author
+> [!example] See also [[Durand, Elias (Elie) Magliore|first entry]] for this author
 
 ### Author
 

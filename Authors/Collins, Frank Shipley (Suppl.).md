@@ -5,7 +5,7 @@ std_form: Collins
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33265948) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Collins, Frank Shipley {std. Collins}|first entry]] for this author
+> [!example] See also [[Collins, Frank Shipley|first entry]] for this author
 
 ### Author
 

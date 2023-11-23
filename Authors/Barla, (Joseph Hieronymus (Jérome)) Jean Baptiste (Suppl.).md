@@ -5,7 +5,7 @@ std_form: Barla
 > [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33265055) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Barla, Joseph Hieronymus (Jérome) Jean Baptiste (Giambattista) {std. Barla}|first entry]] for this author
+> [!example] See also [[Barla, Joseph Hieronymus (Jérome) Jean Baptiste (Giambattista)|first entry]] for this author
 
 ### Author
 

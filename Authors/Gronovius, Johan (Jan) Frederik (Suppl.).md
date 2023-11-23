@@ -5,7 +5,7 @@ std_form: Gronov.
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33258889) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gronovius, Johan (Jan) Frederik {std. Gronov.}|first entry]] for this author
+> [!example] See also [[Gronovius, Johan (Jan) Frederik|first entry]] for this author
 
 ### Author
 

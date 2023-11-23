@@ -5,7 +5,7 @@ std_form: Blanchet
 > [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33265399) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Blanchet, Jacques Samuel {std. Blanchet}|first entry]] for this author
+> [!example] See also [[Blanchet, Jacques Samuel|first entry]] for this author
 
 ### Author
 

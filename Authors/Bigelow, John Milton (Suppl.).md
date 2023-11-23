@@ -5,7 +5,7 @@ std_form: J.M.Bigelow
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33265360) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bigelow, John Milton {std. J.M. Bigelow}|first entry]] for this author
+> [!example] See also [[Bigelow, John Milton|first entry]] for this author
 
 ### Author
 

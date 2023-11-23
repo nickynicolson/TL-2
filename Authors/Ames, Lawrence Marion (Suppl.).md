@@ -5,7 +5,7 @@ std_form: L.Ames
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33264825) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ames, Lawrence Marion {std. L. Ames}|first entry]] for this author
+> [!example] See also [[Ames, Lawrence Marion|first entry]] for this author
 
 ### Author
 

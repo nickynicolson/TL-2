@@ -5,7 +5,7 @@ std_form: J.Bommer
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265499) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bommer, Joseph (Jean) Édouard {std. J. Bommer}|first entry]] for this author
+> [!example] See also [[Bommer, Joseph (Jean) Édouard|first entry]] for this author
 
 ### Author
 

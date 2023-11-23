@@ -5,7 +5,7 @@ std_form: Clos
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265900) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Clos, Dominique {std. Clos}|first entry]] for this author
+> [!example] See also [[Clos, Dominique|first entry]] for this author
 
 ### Author
 

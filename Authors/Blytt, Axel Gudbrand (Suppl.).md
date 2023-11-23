@@ -5,7 +5,7 @@ std_form: A.Blytt
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265429) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Blytt, Axel Gudbrand {std. A. Blytt}|first entry]] for this author
+> [!example] See also [[Blytt, Axel Gudbrand|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: F.B.Forbes
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33259816) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Forbes, Francis Blackwell {std. F.B. Forbes}|first entry]] for this author
+> [!example] See also [[Forbes, Francis Blackwell|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Glow.
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33258719) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Glowacki, Julius {std. Glow.}|first entry]] for this author
+> [!example] See also [[Glowacki, Julius|first entry]] for this author
 
 ### Author
 

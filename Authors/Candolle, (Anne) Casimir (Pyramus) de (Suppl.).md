@@ -5,7 +5,7 @@ std_form: C.DC.
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33266672) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Candolle, Anne Casimir Pyramus de {std. C. DC.}|first entry]] for this author
+> [!example] See also [[Candolle, Anne Casimir Pyramus de|first entry]] for this author
 
 ### Author
 

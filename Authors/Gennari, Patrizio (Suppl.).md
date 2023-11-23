@@ -5,7 +5,7 @@ std_form: Gennari
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33258655) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gennari, Patricio {std. Gennari}|first entry]] for this author
+> [!example] See also [[Gennari, Patricio|first entry]] for this author
 
 ### Author
 

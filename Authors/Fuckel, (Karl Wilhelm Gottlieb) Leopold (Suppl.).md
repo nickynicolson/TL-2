@@ -5,7 +5,7 @@ std_form: Fuckel
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33258549) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fuckel, Karl Wilhelm Gottlieb Leopold {std. Fuckel}|first entry]] for this author
+> [!example] See also [[Fuckel, Karl Wilhelm Gottlieb Leopold|first entry]] for this author
 
 ### Author
 

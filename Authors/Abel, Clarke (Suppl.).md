@@ -5,7 +5,7 @@ std_form: C.Abel
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33264770) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Abel, Clarke {std. C. Abel}|first entry]] for this author
+> [!example] See also [[Abel, Clarke|first entry]] for this author
 
 ### Author
 

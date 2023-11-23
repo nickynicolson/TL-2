@@ -5,7 +5,7 @@ std_form: Conard
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265973) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Conard, Henry Shoemaker {std. Conard}|first entry]] for this author
+> [!example] See also [[Conard, Henry Shoemaker|first entry]] for this author
 
 ### Author
 

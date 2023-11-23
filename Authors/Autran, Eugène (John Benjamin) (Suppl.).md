@@ -5,7 +5,7 @@ std_form: Autran
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33264941) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Autran, Eugène John Benjamin {std. Autran}|first entry]] for this author
+> [!example] See also [[Autran, Eugène John Benjamin|first entry]] for this author
 
 ### Author
 

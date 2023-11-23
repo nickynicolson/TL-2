@@ -5,7 +5,7 @@ std_form: Bréb.
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33266351) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Brébisson, Louis Alphonse de {std. Bréb.}|first entry]] for this author
+> [!example] See also [[Brébisson, Louis Alphonse de|first entry]] for this author
 
 ### Author
 

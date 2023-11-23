@@ -5,7 +5,7 @@ std_form: Gren.
 > [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33258849) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Grenier, Jean Charles Marie {std. Gren.}|first entry]] for this author
+> [!example] See also [[Grenier, Jean Charles Marie|first entry]] for this author
 
 ### Author
 

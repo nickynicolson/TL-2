@@ -5,7 +5,7 @@ std_form: N.H.F.Desp.
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259277) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Desportes, Narcisse Henri François {std. N.H.F. Desp.}|first entry]] for this author
+> [!example] See also [[Desportes, Narcisse Henri François|first entry]] for this author
 
 ### Author
 

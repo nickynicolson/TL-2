@@ -5,7 +5,7 @@ std_form: Bercht.
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33265278) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz {std. Bercht.}|first entry]] for this author
+> [!example] See also [[Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Fassett
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33259564) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fassett, Norman Carter {std. Fassett}|first entry]] for this author
+> [!example] See also [[Fassett, Norman Carter|first entry]] for this author
 
 ### Author
 

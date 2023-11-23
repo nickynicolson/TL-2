@@ -5,7 +5,7 @@ std_form: Boiss.
 > [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33265476) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Boissier, Pierre Edmond {std. Boiss.}|first entry]] for this author
+> [!example] See also [[Boissier, Pierre Edmond|first entry]] for this author
 
 ### Author
 

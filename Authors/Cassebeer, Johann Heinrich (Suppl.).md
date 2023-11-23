@@ -5,7 +5,7 @@ std_form: Casseb.
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33266759) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cassebeer, Johann Heinrich {std. Casseb.}|first entry]] for this author
+> [!example] See also [[Cassebeer, Johann Heinrich|first entry]] for this author
 
 ### Author
 

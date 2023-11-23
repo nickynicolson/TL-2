@@ -5,7 +5,7 @@ std_form: Betcke
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Betcke, Ernst Friedrich {std. Betcke}|first entry]] for this author
+> [!example] See also [[Betcke, Ernst Friedrich|first entry]] for this author
 
 ### Author
 

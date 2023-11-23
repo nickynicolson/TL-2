@@ -5,7 +5,7 @@ std_form: Clem.
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33265883) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Clements, Frederic Edward {std. Clem.}|first entry]] for this author
+> [!example] See also [[Clements, Frederic Edward|first entry]] for this author
 
 ### Author
 

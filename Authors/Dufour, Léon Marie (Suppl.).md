@@ -5,7 +5,7 @@ std_form: L.M.Dufour
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33260138) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dufour, Léon (Marie) {std. L.M. Dufour}|first entry]] for this author
+> [!example] See also [[Dufour, Léon (Marie)|first entry]] for this author
 
 ### Author
 

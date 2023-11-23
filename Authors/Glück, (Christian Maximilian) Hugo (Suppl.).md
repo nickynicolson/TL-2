@@ -5,7 +5,7 @@ std_form: Glück
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33258721) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Glück, Christian Maximilian Hugo {std. Glück}|first entry]] for this author
+> [!example] See also [[Glück, Christian Maximilian Hugo|first entry]] for this author
 
 ### Author
 

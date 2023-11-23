@@ -5,7 +5,7 @@ std_form: Fawc.
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33259579) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Fawcett, William {std. Fawc.}|first entry]] for this author
+> [!example] See also [[Fawcett, William|first entry]] for this author
 
 ### Author
 

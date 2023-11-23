@@ -5,7 +5,7 @@ std_form: Cejp
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33265682) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Cejp, Karel {std. Cejp}|first entry]] for this author
+> [!example] See also [[Cejp, Karel|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: de Bary
 > [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33265086) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Bary, Heinrich Anton de {std. de Bary}|first entry]] for this author
+> [!example] See also [[Bary, Heinrich Anton de|first entry]] for this author
 
 ### Author
 

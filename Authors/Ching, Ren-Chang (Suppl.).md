@@ -5,7 +5,7 @@ std_form: Ching
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33265780) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Ching, Ren-Chang {std. Ching}|first entry]] for this author
+> [!example] See also [[Ching, Ren-Chang|first entry]] for this author
 
 ### Author
 

@@ -5,7 +5,7 @@ std_form: Dahl
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33259053) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Dahl, Andreas {std. Dahl}|first entry]] for this author
+> [!example] See also [[Dahl, Andreas|first entry]] for this author
 
 ### Author
 

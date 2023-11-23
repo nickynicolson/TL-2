@@ -5,7 +5,7 @@ std_form: Deakin
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33259164) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Deakin, Richard {std. Deakin}|first entry]] for this author
+> [!example] See also [[Deakin, Richard|first entry]] for this author
 
 ### Author
 
